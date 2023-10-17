@@ -29,7 +29,7 @@ Our modified active learning pipeline for data selection is illustrated with an 
 
 IPUSD, our proposed data selection strategy, for few-shot prompting achieves higher accuracy while proposing much lower variance across RTE, SST-2, SST-5, TREC, and MRPC. We show that heuristics like random or highest entropy would lead to much lower performance.
 
-Check out the data splits including unlabeled pool in the Datasets folder.
+Check out the data splits for different active learning strategies (including unlabeled and evaluation data splits) in [the Datasets folder](Datasets/).
 
 ## Citation
 ```
