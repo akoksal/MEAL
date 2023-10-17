@@ -1,0 +1,96 @@
+{"sentence": "What should the temperature be set at while baking Peachy Oat Muffins ?", "label": "num", "idx": 33}
+{"sentence": "What TV sitcom character had the maiden name Ethel Potter ?", "label": "hum", "idx": 85}
+{"sentence": "Who retired with 755 home runs to his credit ?", "label": "hum", "idx": 129}
+{"sentence": "What does an ashen-faced eidologist search out the existence of ?", "label": "enty", "idx": 186}
+{"sentence": "Where are the Haversian canals ?", "label": "loc", "idx": 232}
+{"sentence": "What game do Steve McQueen and Edward G. Robinson play in The Cincinnati Kid ?", "label": "enty", "idx": 280}
+{"sentence": "What became the biggest cash crop in the U.S. in 1983 , surpassing corn ?", "label": "enty", "idx": 357}
+{"sentence": "What clause in the U.S. Constitution may not be changed , altered or amended ?", "label": "desc", "idx": 447}
+{"sentence": "What hair color can I use to just cover a little gray ?", "label": "enty", "idx": 462}
+{"sentence": "What star-faring race brought about the Inhumans on Marvel 's Earth ?", "label": "enty", "idx": 482}
+{"sentence": "How many people in the world speak French ?", "label": "num", "idx": 564}
+{"sentence": "What is the longest place name in the U.S. ?", "label": "loc", "idx": 612}
+{"sentence": "How far is London UK from California ?", "label": "num", "idx": 614}
+{"sentence": "What trade did the 15th and 16th century Portuguese hope to control between Asia and Europe ?", "label": "enty", "idx": 753}
+{"sentence": "Which operating system runs on IBM-compatible machines ?", "label": "enty", "idx": 782}
+{"sentence": "What seven digits follow the area code in the number for long distance information ?", "label": "num", "idx": 886}
+{"sentence": "How many wings does a flea have ?", "label": "num", "idx": 914}
+{"sentence": "What drink is the best thirst-quencher ?", "label": "enty", "idx": 978}
+{"sentence": "What has to be produced in a writ of habeas corpus ?", "label": "enty", "idx": 993}
+{"sentence": "How much money does each player get at the beginning of the game in Monopoly ?", "label": "num", "idx": 1329}
+{"sentence": "How many stars are there in Big Dipper ?", "label": "num", "idx": 1454}
+{"sentence": "Who turned all he touched to gold ?", "label": "hum", "idx": 1484}
+{"sentence": "What famed strip of land is a 15-minute boat trip across the Venetian Lagoon from Venice ?", "label": "loc", "idx": 1504}
+{"sentence": "What President once told Gene Autry : `` Please give my regards to your wife Dale '' ?", "label": "hum", "idx": 1530}
+{"sentence": "How many disks does each player have in a four-handed game of Crokinole ?", "label": "num", "idx": 1598}
+{"sentence": "What piece of jewelry is pictured on Monopoly 's Luxury Tax space ?", "label": "enty", "idx": 1774}
+{"sentence": "What was the only country you were allowed to drive into Israel from in 1979 ?", "label": "loc", "idx": 1805}
+{"sentence": "What was the name of the Confederate mounted guerrilla group with which Jesse James and Coleman Younger had ridden ?", "label": "hum", "idx": 1850}
+{"sentence": "What is the population of the largest Chilean city", "label": "num", "idx": 1852}
+{"sentence": "What are different products of petroleum ?", "label": "enty", "idx": 1863}
+{"sentence": "Where is the location of the Orange Bowl ?", "label": "loc", "idx": 1893}
+{"sentence": "What powdered soft drink mix went into space ?", "label": "enty", "idx": 1989}
+{"sentence": "How many years is Johnnie Walker Black Label aged ?", "label": "num", "idx": 1998}
+{"sentence": "What U.S. state lived under six flags ?", "label": "loc", "idx": 2001}
+{"sentence": "What is the average hourly rate of American workers ?", "label": "num", "idx": 2009}
+{"sentence": "What sport is Chris Jogis a top player of ?", "label": "enty", "idx": 2079}
+{"sentence": "What does the word affiant mean ?", "label": "desc", "idx": 2134}
+{"sentence": "What creature is the absolute fastest in moving in the world , birds , mammals , etc. , ?", "label": "enty", "idx": 2190}
+{"sentence": "What was the first English play written exclusively for children ?", "label": "enty", "idx": 2252}
+{"sentence": "How many people have been killed in wars , armed conflicts ?", "label": "num", "idx": 2257}
+{"sentence": "What Cruise Line does Kathie Lee Gifford advertise for ?", "label": "hum", "idx": 2264}
+{"sentence": "What did the Congress of Vienna establish ?", "label": "enty", "idx": 2320}
+{"sentence": "What is a serigraph ?", "label": "desc", "idx": 2393}
+{"sentence": "Whose singing voice was dubbed in for Natalie Wood in West Side Story and Audrey Hepburn in My Fair Lady ?", "label": "hum", "idx": 2414}
+{"sentence": "What Mary Tyler Moore Show regular came into the world as Tadeus Wladyslaw Konopka ?", "label": "enty", "idx": 2487}
+{"sentence": "What do you call the feeling of having experienced something before ?", "label": "enty", "idx": 2498}
+{"sentence": "What do you need to do to marry someone in jail ?", "label": "desc", "idx": 2517}
+{"sentence": "What is DTMF ?", "label": "abbr", "idx": 2533}
+{"sentence": "What war did Johnny Reb and Billy Yank fight ?", "label": "enty", "idx": 2601}
+{"sentence": "What countries have the highest ratio of university students ?", "label": "loc", "idx": 2752}
+{"sentence": "What is a fear of worms ?", "label": "enty", "idx": 2946}
+{"sentence": "What time of year do most people fly ?", "label": "num", "idx": 2957}
+{"sentence": "What is Occam 's Razor ?", "label": "desc", "idx": 2963}
+{"sentence": "What manufacturers are there in Texas ?", "label": "hum", "idx": 3011}
+{"sentence": "What does the double-O indicate in 007 ?", "label": "desc", "idx": 3077}
+{"sentence": "Why is it called `` hamburger '' if there is no ham in it ?", "label": "desc", "idx": 3139}
+{"sentence": "What was the education system in the 1960 's ?", "label": "enty", "idx": 3160}
+{"sentence": "Name Pittsburgh 's baseball team .", "label": "hum", "idx": 3192}
+{"sentence": "What is the origin of the city `` Corpus Christi '' ?", "label": "desc", "idx": 3211}
+{"sentence": "How do birds have sex ?", "label": "desc", "idx": 3231}
+{"sentence": "What English word contains the most letters ?", "label": "enty", "idx": 3315}
+{"sentence": "What spy novelist served as Moscow correspondent for Reuter and The Times of London ?", "label": "hum", "idx": 3335}
+{"sentence": "What are the capital cities of the two large countries that occupy the Iberian peninsula in Europe ?", "label": "loc", "idx": 3353}
+{"sentence": "Where was Tesla born ?", "label": "loc", "idx": 3381}
+{"sentence": "How do I get another city 's newspaper ?", "label": "desc", "idx": 3489}
+{"sentence": "What nuclear process takes place in an H-bomb ?", "label": "desc", "idx": 3536}
+{"sentence": "What is a bourdon tube ?", "label": "desc", "idx": 3568}
+{"sentence": "What river runs through Colorado , Kansas , and Oklahoma ?", "label": "loc", "idx": 3585}
+{"sentence": "Name of heroine in `` Scruples '' ?", "label": "hum", "idx": 3586}
+{"sentence": "What does Final Four refer to in the sports world ?", "label": "enty", "idx": 3626}
+{"sentence": "What are the benefits of home school ?", "label": "desc", "idx": 3711}
+{"sentence": "What is the origin of the rock band Led Zeppelin 's name ?", "label": "desc", "idx": 3808}
+{"sentence": "What was the food of the Greek gods called ?", "label": "enty", "idx": 3973}
+{"sentence": "What are some science fair projects for 8th graders ?", "label": "enty", "idx": 3974}
+{"sentence": "What will the California gas tax be in the year 2000 ?", "label": "num", "idx": 3990}
+{"sentence": "What nationality is Gorbachev ?", "label": "loc", "idx": 4019}
+{"sentence": "What do opposite faces of a die always add up to ?", "label": "enty", "idx": 4024}
+{"sentence": "Who was Lauren Bacall 's first husband ?", "label": "hum", "idx": 4033}
+{"sentence": "What sea separates Naples and Algiers ?", "label": "loc", "idx": 4044}
+{"sentence": "What is the approximate population of Las Vegas , N.M ?", "label": "num", "idx": 4113}
+{"sentence": "Where is the Statistical Abstract of the United States online ?", "label": "loc", "idx": 4119}
+{"sentence": "Where is Natick ?", "label": "loc", "idx": 4183}
+{"sentence": "Who came up with the name , El Nino ?", "label": "hum", "idx": 4227}
+{"sentence": "What is the meaning of W.B. Yeat 's poem , `` The Three Hermits ? ''", "label": "desc", "idx": 4261}
+{"sentence": "What color is an Arctic fox in winter ?", "label": "enty", "idx": 4266}
+{"sentence": "What island group contains Jersey , Guernsey , Sark and Herm ?", "label": "loc", "idx": 4278}
+{"sentence": "What are the three most successful companies of our time ?", "label": "hum", "idx": 4406}
+{"sentence": "What 's the Southern dish made of pigs ' small intestines ?", "label": "enty", "idx": 4447}
+{"sentence": "Which college did Dikembe Mutombo attend ?", "label": "hum", "idx": 4459}
+{"sentence": "Who was Shakespeare 's Moorish general ?", "label": "hum", "idx": 4557}
+{"sentence": "How far can you see ?", "label": "num", "idx": 4724}
+{"sentence": "Who was President of Costa Rica in 1994 ?", "label": "hum", "idx": 4798}
+{"sentence": "Where did the Maya people live ?", "label": "loc", "idx": 4875}
+{"sentence": "How many colors are there in the spectrum ?", "label": "num", "idx": 4881}
+{"sentence": "How many years did Sleeping Beauty sleep ?", "label": "num", "idx": 4910}
+{"sentence": "What term does a Czech use to describe a Pole ?", "label": "enty", "idx": 4925}

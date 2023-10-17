@@ -1,0 +1,96 @@
+{"sentence": "What should you yell to hail a taxi in Madrid ?", "label": "desc", "idx": 4}
+{"sentence": "What are the highest-paying odds on a roulette table ?", "label": "num", "idx": 100}
+{"sentence": "How many South American countries have the letter Z in their names ?", "label": "num", "idx": 109}
+{"sentence": "Who made the first airplane that could fly ?", "label": "hum", "idx": 151}
+{"sentence": "In Beetle Bailey , can you name Sarge 's dog ?", "label": "enty", "idx": 181}
+{"sentence": "What Japanese city was once called Edo ?", "label": "loc", "idx": 218}
+{"sentence": "What constellation is known as The Water Bearer ?", "label": "loc", "idx": 358}
+{"sentence": "Who wrote ` The Pines of Rome ' ?", "label": "hum", "idx": 569}
+{"sentence": "How many objects orbit the Earth ?", "label": "num", "idx": 584}
+{"sentence": "What letter is to the right of K on a typewriter keyboard ?", "label": "enty", "idx": 611}
+{"sentence": "What is the latitude and longitude of El Paso , Texas ?", "label": "num", "idx": 642}
+{"sentence": "What does the abbreviation OAS stand for ?", "label": "abbr", "idx": 668}
+{"sentence": "What is pandoro ?", "label": "desc", "idx": 734}
+{"sentence": "What is InterLata Internet service ?", "label": "desc", "idx": 736}
+{"sentence": "Who kept the most famous diary in the English language ?", "label": "hum", "idx": 742}
+{"sentence": "What is Head Start ?", "label": "desc", "idx": 744}
+{"sentence": "How is cologne made ?", "label": "desc", "idx": 1018}
+{"sentence": "What does the word `` opera '' mean ?", "label": "desc", "idx": 1026}
+{"sentence": "What country comes last in an alphabetical list ?", "label": "loc", "idx": 1135}
+{"sentence": "How many dots make up the symbol for `` because '' ?", "label": "num", "idx": 1165}
+{"sentence": "How many Superbowls have the ers won ?", "label": "num", "idx": 1173}
+{"sentence": "Who was the Democratic nominee in the American presidential election ?", "label": "hum", "idx": 1266}
+{"sentence": "What two Caribbean countries share the island of Hispaniola ?", "label": "loc", "idx": 1267}
+{"sentence": "What university football team did O.J. Simpson take to the Rose Bowl ?", "label": "hum", "idx": 1319}
+{"sentence": "What amount of money did the Philippine ex-dictator Marcos steal from the treasury ?", "label": "num", "idx": 1429}
+{"sentence": "What does Venus Retrograde mean ?", "label": "desc", "idx": 1511}
+{"sentence": "Who portrayed Prewett in From Here to Eternity ?", "label": "hum", "idx": 1578}
+{"sentence": "What 's destroyed in Genesis 19 : 24 ?", "label": "enty", "idx": 1583}
+{"sentence": "What is Martin Luther King Jr. 's real birthday ?", "label": "num", "idx": 1655}
+{"sentence": "What exactly is the purpose of the anteater ?", "label": "desc", "idx": 1676}
+{"sentence": "What is the best selling computer model ever ?", "label": "enty", "idx": 1731}
+{"sentence": "What 's men 's par on a 455-yard golf hole ?", "label": "num", "idx": 1782}
+{"sentence": "What are the 10 plagues of Egypt ?", "label": "enty", "idx": 1829}
+{"sentence": "Where is the location of the Orange Bowl ?", "label": "loc", "idx": 1893}
+{"sentence": "Where can I find a list of all the companies in America that offer a direct stock purchase plan ?", "label": "loc", "idx": 1896}
+{"sentence": "How do they find an epicenter ?", "label": "desc", "idx": 2054}
+{"sentence": "Which organization is the Security Council a part of ?", "label": "hum", "idx": 2146}
+{"sentence": "What Russian novel embracing more the 5 characters is set in the Napoleonic Wars ?", "label": "enty", "idx": 2206}
+{"sentence": "Where can I get a map of Prussia on the Internet ?", "label": "loc", "idx": 2243}
+{"sentence": "How many American soldiers have died for their country to date ?", "label": "num", "idx": 2266}
+{"sentence": "Which type of soda has the greatest amount of caffeine ?", "label": "enty", "idx": 2311}
+{"sentence": "What war saw battles at Parrot 's Beak and Black Virgin ?", "label": "enty", "idx": 2428}
+{"sentence": "Why is the development of space so important ?", "label": "desc", "idx": 2459}
+{"sentence": "How long does it take sunlight to reach Earth ?", "label": "num", "idx": 2514}
+{"sentence": "In what state was there an 11 million gallon oil spill ?", "label": "loc", "idx": 2538}
+{"sentence": "What card game derived its name from biritch , or Russian Whist ?", "label": "enty", "idx": 2545}
+{"sentence": "What is swap math ?", "label": "desc", "idx": 2680}
+{"sentence": "Which oil company almost picked a word that meant `` stalled car '' in Japanese as its new international name ?", "label": "hum", "idx": 2704}
+{"sentence": "What color is the cross on Switzerland 's flag ?", "label": "enty", "idx": 2733}
+{"sentence": "What Caribbean cult did Marcus Garvey originate ?", "label": "enty", "idx": 2894}
+{"sentence": "Where was the first restaurant ?", "label": "loc", "idx": 2910}
+{"sentence": "Who is the head of the World Bank ?", "label": "hum", "idx": 2987}
+{"sentence": "Who played the title role in My Favorite Martian ?", "label": "hum", "idx": 3033}
+{"sentence": "Why are eggs supposed to be stored small end down ?", "label": "desc", "idx": 3115}
+{"sentence": "What city is often called The Insurance Capital of the World ?", "label": "loc", "idx": 3135}
+{"sentence": "What is the term for a group of geese ?", "label": "enty", "idx": 3156}
+{"sentence": "Who declared : `` I am down on whores and I shan 't stop ripping them '' ?", "label": "hum", "idx": 3169}
+{"sentence": "How do I install a tile floor ?", "label": "desc", "idx": 3226}
+{"sentence": "What organization has a Security Council ?", "label": "hum", "idx": 3245}
+{"sentence": "Who appointed the chair of the Federal Reserve ?", "label": "hum", "idx": 3296}
+{"sentence": "What are the distinct physical characterstics of the Arabian horse ?", "label": "desc", "idx": 3303}
+{"sentence": "How did the U.S. come into the possession of an empire in the wake of the Spanish-American War ?", "label": "desc", "idx": 3405}
+{"sentence": "How many URL extensions are there ? and what are they ?", "label": "num", "idx": 3426}
+{"sentence": "Who is the nebbish that is Marvel 's official mascot ?", "label": "hum", "idx": 3430}
+{"sentence": "In what country is a stuck-out tongue a friendly greeting ?", "label": "loc", "idx": 3504}
+{"sentence": "What 's bottled in jeroboams ?", "label": "enty", "idx": 3523}
+{"sentence": "What is the starting salary of a radiographer ?", "label": "num", "idx": 3561}
+{"sentence": "What is a bourdon tube ?", "label": "desc", "idx": 3568}
+{"sentence": "How many quarters equal a pound ?", "label": "num", "idx": 3573}
+{"sentence": "What river runs through Colorado , Kansas , and Oklahoma ?", "label": "loc", "idx": 3585}
+{"sentence": "Who is the voice of Miss Piggy ?", "label": "hum", "idx": 3617}
+{"sentence": "How large is Missouri 's population ?", "label": "num", "idx": 3720}
+{"sentence": "Where was George Washington born ?", "label": "loc", "idx": 3825}
+{"sentence": "What landmark Italian restaurant can be found at 239 West 48th Street , New York City ?", "label": "loc", "idx": 3933}
+{"sentence": "Who played Al Jolson in the Jolson Story ?", "label": "hum", "idx": 3947}
+{"sentence": "What 's the Red Planet ?", "label": "desc", "idx": 3963}
+{"sentence": "What did John F. Kennedy consider his greatest blunder in office ?", "label": "desc", "idx": 4046}
+{"sentence": "What is the only primate to lack pigment in the palms of its hands ?", "label": "enty", "idx": 4123}
+{"sentence": "What 's the name of a golf course in Myrtle Beach ?", "label": "enty", "idx": 4125}
+{"sentence": "What 's the most popular form of bridge ?", "label": "enty", "idx": 4151}
+{"sentence": "What company named one of its pens `` The Banana '' ?", "label": "hum", "idx": 4158}
+{"sentence": "What is the first day of the week ?", "label": "num", "idx": 4258}
+{"sentence": "What is the recommended weight of a 15 year-old male that is 5 , 6 ?", "label": "num", "idx": 4319}
+{"sentence": "When did Theo Rousseau paint the `` Forest of Fontaine '' ?", "label": "num", "idx": 4336}
+{"sentence": "Where are the leading medical groups specializing in lung diseases ?", "label": "loc", "idx": 4415}
+{"sentence": "What does the technique called `` cold fusion '' produce ?", "label": "enty", "idx": 4442}
+{"sentence": "How many films are made by the major studios in a year ?", "label": "num", "idx": 4446}
+{"sentence": "What is the meaning of the name Ella ?", "label": "desc", "idx": 4464}
+{"sentence": "Kosovo is a province of what country ?", "label": "loc", "idx": 4518}
+{"sentence": "What Boris Pasternak book sold 5 , 0 copies to become the fiction best-seller of 1958 ?", "label": "enty", "idx": 4747}
+{"sentence": "What is the recomended age to switch a child from a crib to a bed ?", "label": "num", "idx": 4755}
+{"sentence": "What is the best way to travel in Japan ?", "label": "enty", "idx": 4770}
+{"sentence": "What does JESSICA mean ?", "label": "abbr", "idx": 4796}
+{"sentence": "What was the importance of Magellan ?", "label": "desc", "idx": 4930}
+{"sentence": "What store claims to be the world 's largest department store ?", "label": "hum", "idx": 4932}
+{"sentence": "What do Italians call Florence ?", "label": "enty", "idx": 4947}

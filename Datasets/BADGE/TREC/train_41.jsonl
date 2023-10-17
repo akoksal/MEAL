@@ -1,0 +1,96 @@
+{"sentence": "How many equal angles are there in an isosceles triangle ?", "label": "num", "idx": 114}
+{"sentence": "What information can you get me on Fairground Park in St. Louis", "label": "desc", "idx": 148}
+{"sentence": "What is the estimated total U.S. whitetail deer population ?", "label": "num", "idx": 203}
+{"sentence": "What is the belt of low pressure around the equator called ?", "label": "enty", "idx": 205}
+{"sentence": "Why is Microsoft 's Windows 3 such a successful computer program ?", "label": "desc", "idx": 309}
+{"sentence": "What is a hydrogen bond ?", "label": "desc", "idx": 367}
+{"sentence": "What is the abbreviation of the National Bureau of Investigation ?", "label": "abbr", "idx": 436}
+{"sentence": "What country was the setting of You Only Live Twice ?", "label": "loc", "idx": 467}
+{"sentence": "What state on the Gulf of Mexico has its lowest point five feet below sea level ?", "label": "loc", "idx": 556}
+{"sentence": "When was Beethoven born ?", "label": "num", "idx": 577}
+{"sentence": "Who won the Superbowl in ?", "label": "hum", "idx": 655}
+{"sentence": "Where did King Francis I hang the `` Mona Lisa '' when he owned it ?", "label": "loc", "idx": 703}
+{"sentence": "What people make up half the Soviet Union 's population ?", "label": "hum", "idx": 730}
+{"sentence": "How many cherubs are there on a Trivial Pursuit board ?", "label": "num", "idx": 876}
+{"sentence": "What is the fare cost for the round trip between New York and London on Concorde ?", "label": "num", "idx": 901}
+{"sentence": "Who said : `` Old soldiers never die ; they just fade away '' ?", "label": "hum", "idx": 917}
+{"sentence": "What is the population of Ohio ?", "label": "num", "idx": 922}
+{"sentence": "When did the use of `` the syringe '' first appear in medicinal history ?", "label": "num", "idx": 980}
+{"sentence": "What is a handheld PC ?", "label": "desc", "idx": 1028}
+{"sentence": "What animal do buffalo wings come from ?", "label": "enty", "idx": 1098}
+{"sentence": "What U.S. Air Force general led the first bombing raid over Tokyo ?", "label": "hum", "idx": 1162}
+{"sentence": "What bay divides Maryland 's Eastern and Western Shores ?", "label": "loc", "idx": 1176}
+{"sentence": "What U.S. Government agency registers trademarks ?", "label": "hum", "idx": 1228}
+{"sentence": "Where was helium first discovered , hence its name ?", "label": "loc", "idx": 1286}
+{"sentence": "Name Randy Craft 's lawyer .", "label": "hum", "idx": 1341}
+{"sentence": "Which large U.S. city had the highest murder rate for 1988 ?", "label": "loc", "idx": 1356}
+{"sentence": "What city is the Kentucky Horse Park near ?", "label": "loc", "idx": 1357}
+{"sentence": "What nutrients are for healthy bones and teeth ?", "label": "enty", "idx": 1370}
+{"sentence": "What are the top five oil-producing countries in the world ?", "label": "loc", "idx": 1371}
+{"sentence": "Who are the presidents of Mexico and Indonesia ?", "label": "hum", "idx": 1385}
+{"sentence": "Where are good science sites on the Internet ?", "label": "loc", "idx": 1521}
+{"sentence": "Where is Los Vegas ?", "label": "loc", "idx": 1544}
+{"sentence": "What do humans catch zoonose diseases from ?", "label": "enty", "idx": 1560}
+{"sentence": "Name a canine cartoon character other than Huckleberry Hound to have a voice by Daws Butler .", "label": "hum", "idx": 1566}
+{"sentence": "What is a turnkey contract ?", "label": "desc", "idx": 1619}
+{"sentence": "Who created the World Wide Web , WWW ?", "label": "hum", "idx": 1678}
+{"sentence": "What is the current unemployment rate in the U.S. ?", "label": "num", "idx": 1716}
+{"sentence": "What 's men 's par on a 455-yard golf hole ?", "label": "num", "idx": 1782}
+{"sentence": "What was the only country you were allowed to drive into Israel from in 1979 ?", "label": "loc", "idx": 1805}
+{"sentence": "What famed river flows through Bagdad ?", "label": "loc", "idx": 1853}
+{"sentence": "What 's the meaning of the Latin battle cry : Ad arma , ad arma .", "label": "desc", "idx": 1857}
+{"sentence": "What do Hank Aaron , Jimmy Stewart , and Howard K. Smith have in common ?", "label": "desc", "idx": 1901}
+{"sentence": "How do you get a girl to have sex with you ?", "label": "desc", "idx": 1933}
+{"sentence": "What do you know about multicultural and multilingual schools ?", "label": "desc", "idx": 1936}
+{"sentence": "The operating system that runs on IBM-compatible machines is called what ?", "label": "enty", "idx": 2025}
+{"sentence": "What is the difference between a median and a mean ?", "label": "desc", "idx": 2038}
+{"sentence": "How many people die from tuberculosis each year ?", "label": "num", "idx": 2119}
+{"sentence": "What is a firewall ?", "label": "desc", "idx": 2129}
+{"sentence": "What are the different types of plastic ?", "label": "enty", "idx": 2130}
+{"sentence": "What does a dipsomaniac crave ?", "label": "enty", "idx": 2241}
+{"sentence": "What U.S. Congressman said : `` Keep the faith , baby '' .", "label": "hum", "idx": 2327}
+{"sentence": "What feud ended with a marriage in Kentucky on March 21 , 1891 ?", "label": "enty", "idx": 2343}
+{"sentence": "Whom does Uncle Duke 's girl friend , Honey , room with ?", "label": "hum", "idx": 2375}
+{"sentence": "What U.S. vice-president said : `` Some newspapers dispose of their garbage by printing it '' ?", "label": "hum", "idx": 2415}
+{"sentence": "What predators exist on Antarctica ?", "label": "enty", "idx": 2505}
+{"sentence": "What U.S. university boasts the largest library ?", "label": "hum", "idx": 2552}
+{"sentence": "How many tenths of the Earth 's surface lie under water ?", "label": "num", "idx": 2571}
+{"sentence": "How does an abacus work ?", "label": "desc", "idx": 2740}
+{"sentence": "Who made Stonehenge ?", "label": "hum", "idx": 2769}
+{"sentence": "What is her profession ?", "label": "hum", "idx": 2836}
+{"sentence": "What was the verdict in the 1925 trial of John T. Scopes ?", "label": "desc", "idx": 2848}
+{"sentence": "What U.S. President was the first to breed mules ?", "label": "hum", "idx": 2854}
+{"sentence": "What are the unemployment statistics for the years 1965 and 1990 ?", "label": "num", "idx": 2953}
+{"sentence": "Name 11 famous martyrs .", "label": "hum", "idx": 2969}
+{"sentence": "Where is Glasgow ?", "label": "loc", "idx": 2975}
+{"sentence": "What President had never held an elected office until he was elected to the White House ?", "label": "hum", "idx": 3121}
+{"sentence": "Who wrote `` Much Ado About Nothing '' ?", "label": "hum", "idx": 3167}
+{"sentence": "What drink is made up of rum , coconut milk and pineapple ?", "label": "enty", "idx": 3275}
+{"sentence": "Who awarded The Flying Fickle Finger of Fate ?", "label": "hum", "idx": 3283}
+{"sentence": "How many miles of veins are in the circulatory system ?", "label": "num", "idx": 3345}
+{"sentence": "What rum is so `` mixable '' it is a one-brand bar ?", "label": "enty", "idx": 3358}
+{"sentence": "What African capital is named for a U.S. president ?", "label": "loc", "idx": 3360}
+{"sentence": "What cigar-chewing comedian observed : `` You 're only as old as the woman you feel '' ?", "label": "hum", "idx": 3403}
+{"sentence": "Who owns CNN ?", "label": "hum", "idx": 3465}
+{"sentence": "Where can I find book reviews of `` Turbulent Souls '' ?", "label": "loc", "idx": 3468}
+{"sentence": "Whose funeral train traveled from Washington D.C. to Springfield , Illinois ?", "label": "hum", "idx": 3552}
+{"sentence": "What year was Janet Jackson 's first album released ?", "label": "num", "idx": 3587}
+{"sentence": "What causes headaches ?", "label": "desc", "idx": 3637}
+{"sentence": "What 's the fifth-largest country in the world ?", "label": "loc", "idx": 3657}
+{"sentence": "What are the Nordic nations ?", "label": "loc", "idx": 3672}
+{"sentence": "What is Toulmin logic ?", "label": "desc", "idx": 3777}
+{"sentence": "How many CDs has Garth Brooks sold ?", "label": "num", "idx": 3897}
+{"sentence": "What vowel do all Esperanto nouns end in ?", "label": "enty", "idx": 4018}
+{"sentence": "What color of Monopoly properties are landed on most often ?", "label": "enty", "idx": 4072}
+{"sentence": "What baseball outcome required nine balls in 1879 , eight balls in 1880 and seven balls in 1881 ?", "label": "enty", "idx": 4085}
+{"sentence": "What is `` bloodhound '' ?", "label": "desc", "idx": 4094}
+{"sentence": "What do you do when your mouse is n't working as fast as it 's supposed to ?", "label": "desc", "idx": 4201}
+{"sentence": "What made the Finger Lakes in western New York state ?", "label": "desc", "idx": 4230}
+{"sentence": "Where can I find out the top 1 singles ?", "label": "loc", "idx": 4282}
+{"sentence": "What is the telephone number for the University of Kentucky ?", "label": "num", "idx": 4292}
+{"sentence": "What is a fear of parasites ?", "label": "enty", "idx": 4426}
+{"sentence": "What is a hyperlink ?", "label": "desc", "idx": 4471}
+{"sentence": "When is the Thai New Year ?", "label": "num", "idx": 4479}
+{"sentence": "What fool is not so wise To lose an oath to win a paradise ?", "label": "hum", "idx": 4510}
+{"sentence": "How do I find out the exact time of a sunset for a particular day ?", "label": "desc", "idx": 4638}
+{"sentence": "Where can I find the lyrics for the song ` Getting Married Today ' from the musical ` Company ' ?", "label": "loc", "idx": 4949}

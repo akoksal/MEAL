@@ -1,0 +1,96 @@
+{"sentence": "How do you look up criminal records on the Internet ?", "label": "desc", "idx": 25}
+{"sentence": "How big is the Electoral College ?", "label": "num", "idx": 46}
+{"sentence": "How tall was the animated Frankenstein", "label": "num", "idx": 48}
+{"sentence": "What concerts are held in New York this week ?", "label": "enty", "idx": 50}
+{"sentence": "The italian artist , Maurizio Pellegrin , is how old ?", "label": "num", "idx": 126}
+{"sentence": "What happens when a body part falls asleep ?", "label": "desc", "idx": 139}
+{"sentence": "What is the price for tuberculosis drugs ?", "label": "num", "idx": 141}
+{"sentence": "How can I get rich quick ?", "label": "desc", "idx": 231}
+{"sentence": "How many people die from snakebite poisoning in the U.S. per year ?", "label": "num", "idx": 251}
+{"sentence": "What is witch hazel ?", "label": "desc", "idx": 294}
+{"sentence": "What is a Jellicle Cat ?", "label": "desc", "idx": 377}
+{"sentence": "About how many Americans are still unaccounted for from the Vietnam war ?", "label": "num", "idx": 398}
+{"sentence": "How do websites like Yahoo and Excite make money ?", "label": "desc", "idx": 602}
+{"sentence": "How many years make up a lustrum ?", "label": "num", "idx": 724}
+{"sentence": "Where can I get mailing lists ?", "label": "loc", "idx": 757}
+{"sentence": "What do camels store in their humps ?", "label": "enty", "idx": 780}
+{"sentence": "How can I get a comic character I made copyrighted and published ?", "label": "desc", "idx": 931}
+{"sentence": "What are the chances of pregnacy if the penis does not penetrate the vagina ?", "label": "num", "idx": 1008}
+{"sentence": "What are the chances of pregnacy if the penis does not penetrate the vagina ?", "label": "num", "idx": 1158}
+{"sentence": "What does a woman want ?", "label": "enty", "idx": 1177}
+{"sentence": "CNN is an acronym for what ?", "label": "abbr", "idx": 1210}
+{"sentence": "How can you tell when figs are ripe ?", "label": "desc", "idx": 1212}
+{"sentence": "What feminist wrote Sexual Politics and Flying ?", "label": "hum", "idx": 1259}
+{"sentence": "What 's the No. 1 killer in industrialized countries ?", "label": "enty", "idx": 1285}
+{"sentence": "How many questions do you have on your database ?", "label": "num", "idx": 1298}
+{"sentence": "What is Latin for incompetent ?", "label": "enty", "idx": 1492}
+{"sentence": "Where are good science sites on the Internet ?", "label": "loc", "idx": 1521}
+{"sentence": "What is the salary of a U.S. Representative ?", "label": "num", "idx": 1528}
+{"sentence": "How do you clean badly tarnished brass ?", "label": "desc", "idx": 1547}
+{"sentence": "What causes a person to have constantly sweaty hands and feet ?", "label": "desc", "idx": 1570}
+{"sentence": "How do they type Chinese characters on a keyboard ?", "label": "desc", "idx": 1665}
+{"sentence": "When will the millennium officially begin ?", "label": "num", "idx": 1691}
+{"sentence": "How do I find the balance of my social security account ?", "label": "desc", "idx": 1742}
+{"sentence": "What robust U.S. President imported his own instructor after seeing a judo match ?", "label": "hum", "idx": 1801}
+{"sentence": "What does NAFTA stand for ?", "label": "abbr", "idx": 1831}
+{"sentence": "What are the most common causes of death in the U.S. ?", "label": "desc", "idx": 1954}
+{"sentence": "How much did the Iran-Contra investigation cost ?", "label": "num", "idx": 1973}
+{"sentence": "Where can one find information on religion and health , the brain and nutrition ?", "label": "loc", "idx": 1975}
+{"sentence": "Where does tuberculosis come from ?", "label": "loc", "idx": 2012}
+{"sentence": "What mayor made so many TV appearances he was asked to join AFTRA in 1984 ?", "label": "hum", "idx": 2124}
+{"sentence": "When is the Jimmy Buffett concert coming to the E center in Camden NJ ?", "label": "num", "idx": 2402}
+{"sentence": "What is the protection rate of using condoms ?", "label": "num", "idx": 2474}
+{"sentence": "What good are mosquitoes ?", "label": "desc", "idx": 2476}
+{"sentence": "Where can I find a case on Individuals with Disabilities Education Act of 1991 ?", "label": "loc", "idx": 2479}
+{"sentence": "What do you need to do to marry someone in jail ?", "label": "desc", "idx": 2517}
+{"sentence": "Where can I get piano music for the Jamiroquai song Everyday for the midi ?", "label": "loc", "idx": 2546}
+{"sentence": "Independent silversmith 's account for what percentage of silver production ?", "label": "num", "idx": 2711}
+{"sentence": "How much of the nation 's children between the ages of two and eleven watch ` The Simpsons ' ?", "label": "num", "idx": 2726}
+{"sentence": "What is the chance of conceiving quadruplets ?", "label": "num", "idx": 2778}
+{"sentence": "Where can I get U.S. economic statistics ?", "label": "loc", "idx": 2832}
+{"sentence": "What is a fear of worms ?", "label": "enty", "idx": 2946}
+{"sentence": "Who sells Viagra ?", "label": "hum", "idx": 2951}
+{"sentence": "Who is the head of the World Bank ?", "label": "hum", "idx": 2987}
+{"sentence": "What is the procedure called for drilling a hole in your skull to acheive a higher consciousness ?", "label": "enty", "idx": 3034}
+{"sentence": "How can I find out my Moon sign ?", "label": "desc", "idx": 3103}
+{"sentence": "What does CNN stand for ?", "label": "abbr", "idx": 3147}
+{"sentence": "What are the current immigration laws in US ?", "label": "desc", "idx": 3148}
+{"sentence": "Who founded the Unification Church ?", "label": "hum", "idx": 3161}
+{"sentence": "How do I find out about jobs ?", "label": "desc", "idx": 3179}
+{"sentence": "What is the cost of the drugs used in tuberculosis treatments ?", "label": "num", "idx": 3204}
+{"sentence": "CNN is owned by whom ?", "label": "hum", "idx": 3229}
+{"sentence": "How do you find out what is allowed to claim as a contibution for income tax purposes ?", "label": "desc", "idx": 3244}
+{"sentence": "What percentage of the silver production is done by independent silversmiths ?", "label": "num", "idx": 3282}
+{"sentence": "Whose acceptance speech of more than 3 minutes prompted a time limit on Academy Award thank-yous ?", "label": "hum", "idx": 3410}
+{"sentence": "What food can I use to catch a possum ?", "label": "enty", "idx": 3413}
+{"sentence": "What is endometriosis ?", "label": "desc", "idx": 3416}
+{"sentence": "Why doesn 't www.answers.com have any answers to my questions ?", "label": "desc", "idx": 3425}
+{"sentence": "Who owns CNN ?", "label": "hum", "idx": 3465}
+{"sentence": "What is a plant supplement ?", "label": "desc", "idx": 3479}
+{"sentence": "Why do men snore ?", "label": "desc", "idx": 3509}
+{"sentence": "How successful is arometherapy ?", "label": "desc", "idx": 3905}
+{"sentence": "How can I find out how much income tax is paid on Social Security income on the 1998 income tax ?", "label": "desc", "idx": 3965}
+{"sentence": "What attorneys work for The Center for the Defense of Free Enterprise ?", "label": "hum", "idx": 4115}
+{"sentence": "What is `` cat scratch fever '' ?", "label": "desc", "idx": 4134}
+{"sentence": "Where can I find the status of my tax return ?", "label": "loc", "idx": 4140}
+{"sentence": "What effect does LSD have on the brain ?", "label": "desc", "idx": 4192}
+{"sentence": "What is a fear of hell ?", "label": "enty", "idx": 4198}
+{"sentence": "What do you do when your mouse is n't working as fast as it 's supposed to ?", "label": "desc", "idx": 4201}
+{"sentence": "What chess outcome results when a player has no legal move ?", "label": "enty", "idx": 4211}
+{"sentence": "Where can I find out the top 1 singles ?", "label": "loc", "idx": 4282}
+{"sentence": "What is the recommended weight of a 15 year-old male that is 5 , 6 ?", "label": "num", "idx": 4319}
+{"sentence": "When does menstruation begin ?", "label": "num", "idx": 4337}
+{"sentence": "Where did marijuana come from ?", "label": "desc", "idx": 4338}
+{"sentence": "What is a fear of parasites ?", "label": "enty", "idx": 4426}
+{"sentence": "How many Canadians emmigrate each year ?", "label": "num", "idx": 4456}
+{"sentence": "Why do n't you guys have some sort of contest where you ask a question and whoever finds the answers wins a prize ?", "label": "desc", "idx": 4485}
+{"sentence": "What baseball star turned down a $1 , 000-a-year contract because he felt he had n't earned it ?", "label": "hum", "idx": 4533}
+{"sentence": "Why did several San Diego schools remove apples from students menus ?", "label": "desc", "idx": 4603}
+{"sentence": "How many electoral college votes does Colorado have ?", "label": "num", "idx": 4608}
+{"sentence": "Why does cotton get caught in belly buttons ?", "label": "desc", "idx": 4617}
+{"sentence": "What is the alphabet for Latin ?", "label": "enty", "idx": 4626}
+{"sentence": "How do you build a solar car for a high school experiment ?", "label": "desc", "idx": 4654}
+{"sentence": "Of children between the ages of two and eleven , what percentage watch `` The Simpsons '' ?", "label": "num", "idx": 4663}
+{"sentence": "How is the election of a new Pope announced to the world ?", "label": "desc", "idx": 4727}
+{"sentence": "What do you say to a friend who ignores you for other friends ?", "label": "desc", "idx": 4819}
+{"sentence": "How much do drugs to treat tuberculosis cost ?", "label": "num", "idx": 4850}

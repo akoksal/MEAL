@@ -1,0 +1,96 @@
+{"sentence": "What concerts are held in New York this week ?", "label": "enty", "idx": 50}
+{"sentence": "How do you say 2 in Latin ?", "label": "enty", "idx": 149}
+{"sentence": "What are the numbers that fit into Fermont 's last theorem ?", "label": "num", "idx": 170}
+{"sentence": "Where are the apartments in Saint John , New Brunswick ?", "label": "loc", "idx": 223}
+{"sentence": "How many Americans have HIV ?", "label": "num", "idx": 233}
+{"sentence": "Where is Trinidad ?", "label": "loc", "idx": 287}
+{"sentence": "The Kentucky Horse Park is located near what city ?", "label": "loc", "idx": 454}
+{"sentence": "Why are organ transplants more successful today ?", "label": "desc", "idx": 531}
+{"sentence": "How many people in Tucson ?", "label": "num", "idx": 545}
+{"sentence": "What Broadway show introduced the song Some Enchanted Evening ?", "label": "enty", "idx": 665}
+{"sentence": "What qualifications are there for individuals donating blood ?", "label": "desc", "idx": 697}
+{"sentence": "What are the odds of giving birth to twins ?", "label": "num", "idx": 721}
+{"sentence": "Approximately how many students are enrolled at the University of Massachusetts ?", "label": "num", "idx": 787}
+{"sentence": "Where is McCarren Airport located ?", "label": "loc", "idx": 894}
+{"sentence": "Where is Mozambique located ?", "label": "loc", "idx": 950}
+{"sentence": "What is a bone marrow transplant meant for ?", "label": "desc", "idx": 996}
+{"sentence": "Where is Rider College located ?", "label": "loc", "idx": 1047}
+{"sentence": "Where is the Kentucky Horse Park located ?", "label": "loc", "idx": 1057}
+{"sentence": "How many times more than 3", "label": "num", "idx": 1064}
+{"sentence": "Where is the Rose Bowl played ?", "label": "loc", "idx": 1071}
+{"sentence": "How far is it from Phoenix to Blythe ?", "label": "num", "idx": 1125}
+{"sentence": "Who is the composer of `` Canon in D Major '' ?", "label": "hum", "idx": 1128}
+{"sentence": "How many people have died of tuberculosis ?", "label": "num", "idx": 1187}
+{"sentence": "What country are you visiting if you land at President Duvalier Airport ?", "label": "loc", "idx": 1203}
+{"sentence": "What is a bone marrow transplant ?", "label": "desc", "idx": 1209}
+{"sentence": "Where is the Smithsonian Institute located ?", "label": "loc", "idx": 1230}
+{"sentence": "How do you say 2 in Latin ?", "label": "enty", "idx": 1299}
+{"sentence": "Where is Belize located ?", "label": "loc", "idx": 1309}
+{"sentence": "Where is Romania located ?", "label": "loc", "idx": 1368}
+{"sentence": "What are the Arabic Numerals from 1 to 10 ?", "label": "desc", "idx": 1446}
+{"sentence": "How many were in attendance at the Last Supper ?", "label": "num", "idx": 1481}
+{"sentence": "What is Latin for incompetent ?", "label": "enty", "idx": 1492}
+{"sentence": "What is the chromosome number of an elephant ?", "label": "num", "idx": 1494}
+{"sentence": "How many zeros are there in a trillion ?", "label": "num", "idx": 1495}
+{"sentence": "Where is Los Vegas ?", "label": "loc", "idx": 1544}
+{"sentence": "How many islands make up Antigua ?", "label": "num", "idx": 1565}
+{"sentence": "How much calcium should an adult female have daily ?", "label": "num", "idx": 1683}
+{"sentence": "What is the current ticket fare from from Cairo to Barbados ?", "label": "num", "idx": 1701}
+{"sentence": "What Asian country has a bill of rights for cows ?", "label": "loc", "idx": 1740}
+{"sentence": "Where is Santa Lucia ?", "label": "loc", "idx": 1757}
+{"sentence": "When was the first successful heart transplant for a human ?", "label": "num", "idx": 1791}
+{"sentence": "Where do the Blackhawks maintain their operations ?", "label": "loc", "idx": 1907}
+{"sentence": "Where is Inoco based ?", "label": "loc", "idx": 1912}
+{"sentence": "Where is Tufts University ?", "label": "loc", "idx": 2007}
+{"sentence": "Where is Amsterdam ?", "label": "loc", "idx": 2031}
+{"sentence": "How long does the average domesticated ferret live ?", "label": "num", "idx": 2094}
+{"sentence": "Where is the Mayo Clinic ?", "label": "loc", "idx": 2140}
+{"sentence": "How many people have been killed in wars , armed conflicts ?", "label": "num", "idx": 2257}
+{"sentence": "How would someone go about becoming an organ donor ?", "label": "desc", "idx": 2274}
+{"sentence": "What sign is the best love match for a horoscope sign ?", "label": "enty", "idx": 2359}
+{"sentence": "What city is . KDGE Radio located in ?", "label": "loc", "idx": 2397}
+{"sentence": "What city is served by McCarren Airport ?", "label": "loc", "idx": 2408}
+{"sentence": "Where is Guam ?", "label": "loc", "idx": 2413}
+{"sentence": "How do you identify prime numbers ?", "label": "desc", "idx": 2430}
+{"sentence": "What South American city features the exclusive Copacabana Beach and Ipanema ?", "label": "loc", "idx": 2454}
+{"sentence": "What number is at 12 o 'clock on a dartboard ?", "label": "num", "idx": 2465}
+{"sentence": "What is the location of McCarren Airport ?", "label": "loc", "idx": 2516}
+{"sentence": "The Kentucky Horse Park is close to which American city ?", "label": "loc", "idx": 2558}
+{"sentence": "Where do people mountain climb in Nepal ?", "label": "loc", "idx": 2565}
+{"sentence": "What countries have the best math students ?", "label": "loc", "idx": 2572}
+{"sentence": "What is the highest Roman numeral ?", "label": "desc", "idx": 2645}
+{"sentence": "How many people are there in the world ?", "label": "num", "idx": 2652}
+{"sentence": "What 's the third month of the Gregorian calendar ?", "label": "num", "idx": 2712}
+{"sentence": "What is prepared mustard ?", "label": "desc", "idx": 2751}
+{"sentence": "What are some good exercises for kids to do ?", "label": "enty", "idx": 2784}
+{"sentence": "Where is South Bend ?", "label": "loc", "idx": 2823}
+{"sentence": "In what country is Lund ?", "label": "loc", "idx": 2860}
+{"sentence": "Where is Mile High Stadium ?", "label": "loc", "idx": 2984}
+{"sentence": "What are the Greek numerals ?", "label": "desc", "idx": 3070}
+{"sentence": "What President had never held an elected office until he was elected to the White House ?", "label": "hum", "idx": 3121}
+{"sentence": "What is the location of Edinburgh , Scotland ?", "label": "loc", "idx": 3203}
+{"sentence": "The Orange Bowl is located in what city ?", "label": "loc", "idx": 3210}
+{"sentence": "How do they find or choose witnesses to an execution ?", "label": "desc", "idx": 3219}
+{"sentence": "What color Poker chip is usually assigned the lowest value ?", "label": "enty", "idx": 3261}
+{"sentence": "What are amicable numbers ?", "label": "desc", "idx": 3420}
+{"sentence": "What is the HIGHEST Roman numeral ?", "label": "desc", "idx": 3503}
+{"sentence": "Where is Ocho Rios ?", "label": "loc", "idx": 3518}
+{"sentence": "What city does McCarren Airport serve ?", "label": "loc", "idx": 3563}
+{"sentence": "How many three-letter permutations can be made from the four letters : c ?", "label": "num", "idx": 3643}
+{"sentence": "In what sport are these following numbers relevant : 118 , 126 , 134 , 142 , 15 , 158 , 167 , 177 , and 19 ?", "label": "enty", "idx": 3741}
+{"sentence": "How many Beatles ' records went #1 ?", "label": "num", "idx": 3846}
+{"sentence": "Where can I find the best free evidence for debate about Russia ?", "label": "loc", "idx": 3940}
+{"sentence": "Where is McCarren Airport ?", "label": "loc", "idx": 3975}
+{"sentence": "Where can one find Mozambique ?", "label": "loc", "idx": 3998}
+{"sentence": "How many casinos are in Atlantic City , NJ ?", "label": "num", "idx": 4009}
+{"sentence": "What do opposite faces of a die always add up to ?", "label": "enty", "idx": 4024}
+{"sentence": "How many people live in Chile ?", "label": "num", "idx": 4121}
+{"sentence": "What city does Orly Airport serve ?", "label": "loc", "idx": 4138}
+{"sentence": "How would I find the price of different organs that have been donated ?", "label": "desc", "idx": 4180}
+{"sentence": "What is the current ticket fare from from Cairo to Barbados ?", "label": "num", "idx": 4222}
+{"sentence": "How many visitors go to the Vatican each year ?", "label": "num", "idx": 4424}
+{"sentence": "Where is Rider College ?", "label": "loc", "idx": 4445}
+{"sentence": "What is the alphabet for Latin ?", "label": "enty", "idx": 4626}
+{"sentence": "How much iron is in your body ?", "label": "num", "idx": 4731}
+{"sentence": "McCarren Airport is located in what city ?", "label": "loc", "idx": 4772}
+{"sentence": "How long does it take for your body to restore blood after you donate your blood ?", "label": "num", "idx": 4867}

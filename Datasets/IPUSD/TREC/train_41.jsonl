@@ -1,0 +1,96 @@
+{"sentence": "What 's the meaning of UOL ?", "label": "desc", "idx": 23}
+{"sentence": "How do you calculate the change in enthalpy of a chemical reaction ?", "label": "desc", "idx": 32}
+{"sentence": "Who was the first host of Person to Person ?", "label": "hum", "idx": 47}
+{"sentence": "Name the Ranger who was always after Yogi Bear .", "label": "hum", "idx": 98}
+{"sentence": "Which two inventors invented Post-its ?", "label": "hum", "idx": 128}
+{"sentence": "What was Edward Albee 's first full-length play ?", "label": "enty", "idx": 195}
+{"sentence": "How much of the silver production is manufactured by independent silversmiths ?", "label": "num", "idx": 312}
+{"sentence": "What was the number of people that Randy Steven Craft was convicted of killing ?", "label": "num", "idx": 372}
+{"sentence": "What country is located at 13 degrees North latitude and 10 degrees East longitude ?", "label": "loc", "idx": 448}
+{"sentence": "What count did Alexandre Dumas write about ?", "label": "hum", "idx": 543}
+{"sentence": "What are the five most expensive cities in the world ?", "label": "loc", "idx": 553}
+{"sentence": "How do websites like Yahoo and Excite make money ?", "label": "desc", "idx": 602}
+{"sentence": "What is the abbreviated form of the National Bureau of Investigation ?", "label": "abbr", "idx": 844}
+{"sentence": "How far away is the moon ?", "label": "num", "idx": 887}
+{"sentence": "What does seccession mean ?", "label": "desc", "idx": 927}
+{"sentence": "When is Dick Clark 's birthday ?", "label": "num", "idx": 953}
+{"sentence": "Name the scar-faced bounty hunter of The Old West .", "label": "hum", "idx": 984}
+{"sentence": "What is SVHS ?", "label": "abbr", "idx": 1000}
+{"sentence": "What former president 's daughter has written a book titled Murder in the White House ?", "label": "hum", "idx": 1053}
+{"sentence": "Who killed more people , Hitler or Stalin ?", "label": "hum", "idx": 1082}
+{"sentence": "Where is the Smithsonian Institute located ?", "label": "loc", "idx": 1230}
+{"sentence": "What is the purpose of a car bra ?", "label": "desc", "idx": 1271}
+{"sentence": "What London street is the home of British journalism ?", "label": "loc", "idx": 1343}
+{"sentence": "What President served for five years , six months and 2 days ?", "label": "hum", "idx": 1344}
+{"sentence": "What is the abbreviated term used for the National Bureau of Investigation ?", "label": "abbr", "idx": 1347}
+{"sentence": "How many `` eyes '' does a coconut have ?", "label": "num", "idx": 1365}
+{"sentence": "Why do horseshoes bring luck ?", "label": "desc", "idx": 1398}
+{"sentence": "Why do recipe books recommend starting with cold water when you boil something ?", "label": "desc", "idx": 1411}
+{"sentence": "What is Latin for incompetent ?", "label": "enty", "idx": 1492}
+{"sentence": "Name the Four Horsemen of the Apocalypse .", "label": "hum", "idx": 1546}
+{"sentence": "What Scandinavian country covers 173 , 732 square miles ?", "label": "loc", "idx": 1610}
+{"sentence": "What was Mao 's second name ?", "label": "hum", "idx": 1632}
+{"sentence": "How many colonies did Germany get to keep after World War I ?", "label": "num", "idx": 1698}
+{"sentence": "What is the origin of gametophytic tissue ?", "label": "desc", "idx": 1755}
+{"sentence": "What Las Vegas hotel burned in November , 1980 , with the loss of 84 lives ?", "label": "loc", "idx": 1799}
+{"sentence": "What is the most popular sports car color ?", "label": "enty", "idx": 1807}
+{"sentence": "What baseball great plugged Mr. Coffee ?", "label": "hum", "idx": 1840}
+{"sentence": "What was the first minimum wage ?", "label": "num", "idx": 1861}
+{"sentence": "How long does it take the moon to revolve around the Earth ?", "label": "num", "idx": 2039}
+{"sentence": "What color bottles do good Rhine wines come in ?", "label": "enty", "idx": 2092}
+{"sentence": "Where can one find Rider College ?", "label": "loc", "idx": 2145}
+{"sentence": "What is an arab strap ?", "label": "desc", "idx": 2160}
+{"sentence": "What are binomial coefficients ?", "label": "desc", "idx": 2249}
+{"sentence": "What do players try to do when the music stops in a game of musical chairs ?", "label": "desc", "idx": 2277}
+{"sentence": "Name of the powerful white trader in Conrad 's `` Heart of Darkness '' ?", "label": "hum", "idx": 2347}
+{"sentence": "What city is . KDGE Radio located in ?", "label": "loc", "idx": 2397}
+{"sentence": "In what part of Africa is Mozambique located ?", "label": "loc", "idx": 2485}
+{"sentence": "What does a chef coddle eggs in ?", "label": "enty", "idx": 2507}
+{"sentence": "What is a fear of hair ?", "label": "enty", "idx": 2543}
+{"sentence": "How do companies cut paper so thin ?", "label": "desc", "idx": 2612}
+{"sentence": "What 's the motto of the Boy Scouts ?", "label": "desc", "idx": 2710}
+{"sentence": "What is New England 's highest mountain ?", "label": "loc", "idx": 2786}
+{"sentence": "What Caribbean cult did Marcus Garvey originate ?", "label": "enty", "idx": 2894}
+{"sentence": "What city is sometimes called Gotham ?", "label": "loc", "idx": 2949}
+{"sentence": "What time of year do most people fly ?", "label": "num", "idx": 2957}
+{"sentence": "What are the Greek numerals ?", "label": "desc", "idx": 3070}
+{"sentence": "Which is the best opening move in chess ?", "label": "enty", "idx": 3086}
+{"sentence": "What is a fear of fish ?", "label": "enty", "idx": 3095}
+{"sentence": "What Hollywood dog died in the arms of Jean Harlow in 1932 ?", "label": "enty", "idx": 3106}
+{"sentence": "What developed a crack in 1835 while tolling the death of U.S. Chief Justice John Marshall ?", "label": "enty", "idx": 3122}
+{"sentence": "How do you make dumplings ?", "label": "desc", "idx": 3162}
+{"sentence": "What is the origin of the city `` Corpus Christi '' ?", "label": "desc", "idx": 3211}
+{"sentence": "How much did Varian Associates try to sell its vacuum products division to the BOC group for ?", "label": "num", "idx": 3251}
+{"sentence": "Who said `` Give me liberty or give me death '' ?", "label": "hum", "idx": 3294}
+{"sentence": "Where was Tesla born ?", "label": "loc", "idx": 3381}
+{"sentence": "Why did Europeans first come to Australia and Oceania ?", "label": "desc", "idx": 3391}
+{"sentence": "What year did nylon stockings first go on sale ?", "label": "num", "idx": 3394}
+{"sentence": "On average , how many miles are there to the moon ?", "label": "num", "idx": 3424}
+{"sentence": "Colin Powell is most famous for what ?", "label": "desc", "idx": 3531}
+{"sentence": "What city does McCarren Airport serve ?", "label": "loc", "idx": 3563}
+{"sentence": "What country 's capital was formed when Pesth and Buda merged ?", "label": "loc", "idx": 3596}
+{"sentence": "What invention does the principle of conservation of energy make impossible ?", "label": "enty", "idx": 3681}
+{"sentence": "The trials resulting from World War II are known as what ?", "label": "enty", "idx": 3686}
+{"sentence": "What ISPs exist in the Caribbean ?", "label": "hum", "idx": 3708}
+{"sentence": "What is the fastest commercial automobile that can be bought in the US ?", "label": "enty", "idx": 3737}
+{"sentence": "What war did the Potsdam Conference follow ?", "label": "enty", "idx": 3755}
+{"sentence": "How does James Bond like his martinis ?", "label": "desc", "idx": 3826}
+{"sentence": "Who portrayed Vincent Van Gogh in Lust for Life ?", "label": "hum", "idx": 3832}
+{"sentence": "How many websites are there in the world ?", "label": "num", "idx": 3853}
+{"sentence": "What is the name of the medical condition in which a baby is born without a brain ?", "label": "enty", "idx": 3888}
+{"sentence": "What 's the Red Planet ?", "label": "desc", "idx": 3963}
+{"sentence": "What is the origin of the term `` buffalo wings '' that is used as a menu item in bars across the nation for chicken wings in a spicey sauce ?", "label": "desc", "idx": 3968}
+{"sentence": "What do opposite faces of a die always add up to ?", "label": "enty", "idx": 4024}
+{"sentence": "What should the oven be set at for baking Peachy Oat Muffins ?", "label": "enty", "idx": 4057}
+{"sentence": "What are all the southern states of the United States ?", "label": "loc", "idx": 4077}
+{"sentence": "How can I find out which cities have cable-modem access ?", "label": "desc", "idx": 4224}
+{"sentence": "What does a red flag mean in auto racing ?", "label": "desc", "idx": 4263}
+{"sentence": "How do I find out what cities are in a certain area code ?", "label": "desc", "idx": 4264}
+{"sentence": "When did Theo Rousseau paint the `` Forest of Fontaine '' ?", "label": "num", "idx": 4336}
+{"sentence": "How much money can a person be fined for having a dog on a beach ?", "label": "num", "idx": 4412}
+{"sentence": "What is the meaning of the name Ella ?", "label": "desc", "idx": 4464}
+{"sentence": "What terror of the sea did Johnny Horton sing about ?", "label": "enty", "idx": 4513}
+{"sentence": "Who was the Russian ambassador to Hungary during the 1956 uprising ?", "label": "hum", "idx": 4690}
+{"sentence": "How was the ACLU formed ?", "label": "desc", "idx": 4706}
+{"sentence": "How does the car in `` Christine '' become possessed ?", "label": "desc", "idx": 4757}
+{"sentence": "Where can I find a lesson plan for teaching the metric system conversion to American standard ?", "label": "loc", "idx": 4928}

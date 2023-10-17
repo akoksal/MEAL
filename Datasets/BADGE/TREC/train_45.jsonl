@@ -1,0 +1,96 @@
+{"sentence": "What is the federal minimum wage ?", "label": "num", "idx": 177}
+{"sentence": "How many teats does a female goat sport ?", "label": "num", "idx": 226}
+{"sentence": "Which of the following TV newsmen was a Rhodes scholar ?", "label": "hum", "idx": 297}
+{"sentence": "What is object-oriented design ?", "label": "desc", "idx": 302}
+{"sentence": "What fraction of a beaver 's life is spent swimming ?", "label": "num", "idx": 314}
+{"sentence": "What is the name of the tallest mountain in the world ?", "label": "loc", "idx": 336}
+{"sentence": "What constellation is known as The Water Bearer ?", "label": "loc", "idx": 358}
+{"sentence": "What are the lyrics to `` Smelly Cat '' ?", "label": "desc", "idx": 444}
+{"sentence": "What four-legged creature did a Cornell University study say would make man 's best companion in space ?", "label": "enty", "idx": 450}
+{"sentence": "What monarch signed the Magna Carta ?", "label": "hum", "idx": 501}
+{"sentence": "What is `` Chicago Hope '' ?", "label": "desc", "idx": 533}
+{"sentence": "Where is Logan Airport ?", "label": "loc", "idx": 537}
+{"sentence": "How many people in Tucson ?", "label": "num", "idx": 545}
+{"sentence": "Who is the son-in-law of Sen. Everett Dirkson who was also a senator in the '70 's ?", "label": "hum", "idx": 559}
+{"sentence": "How do you send a movie transcript to Hollywood so that it can be produced into a film ?", "label": "desc", "idx": 598}
+{"sentence": "How many hands does Bjorn Borg use when hitting his forehand ?", "label": "num", "idx": 673}
+{"sentence": "What are my legal rights in an automobile repossession in California ?", "label": "desc", "idx": 772}
+{"sentence": "How many cards is each player dealt in Contract Bridge ?", "label": "num", "idx": 773}
+{"sentence": "Approximately how many students are enrolled at the University of Massachusetts ?", "label": "num", "idx": 787}
+{"sentence": "What 19th-century writer had a country estate on the Hudson dubbed Sunnyside ?", "label": "hum", "idx": 828}
+{"sentence": "What are the statistics for drunken drivers in Maryland ?", "label": "num", "idx": 895}
+{"sentence": "How many wings does a flea have ?", "label": "num", "idx": 914}
+{"sentence": "What are the diseases that can be cured by black cumin ?", "label": "enty", "idx": 1010}
+{"sentence": "What animal do buffalo wings come from ?", "label": "enty", "idx": 1098}
+{"sentence": "What corporation does Madonna advertise for ?", "label": "hum", "idx": 1113}
+{"sentence": "What 's the name of the Tokyo Stock Exchange ?", "label": "enty", "idx": 1170}
+{"sentence": "Why does tuberculosis afflict people ?", "label": "desc", "idx": 1196}
+{"sentence": "What is Dick Clark 's date of birth ?", "label": "num", "idx": 1236}
+{"sentence": "Rotary engine cars were made by what company ?", "label": "hum", "idx": 1240}
+{"sentence": "How many types of dogs ' tails are there - three", "label": "num", "idx": 1251}
+{"sentence": "What London street claims to be the world center for men 's tailoring ?", "label": "loc", "idx": 1255}
+{"sentence": "What is a cullion ?", "label": "desc", "idx": 1260}
+{"sentence": "What is capitalism according to Max Weber ?", "label": "desc", "idx": 1372}
+{"sentence": "What is the probability that at least 2 out of 25 people will have the same birthday ?", "label": "num", "idx": 1402}
+{"sentence": "What country did the Nazis occupy for 1 , CD NNS IN NNP NNP NNP .", "label": "loc", "idx": 1435}
+{"sentence": "What was Thatcher 's approval rating after 10 years in power ?", "label": "num", "idx": 1471}
+{"sentence": "When were camcorders introduced in Malaysia ?", "label": "num", "idx": 1509}
+{"sentence": "Name a ballet company Mikhail Baryshnikov has danced for ?", "label": "hum", "idx": 1525}
+{"sentence": "What are the top ten most common girl names in the US ?", "label": "hum", "idx": 1593}
+{"sentence": "What is the medical term for cancer of the blood ?", "label": "enty", "idx": 1911}
+{"sentence": "How do I check if my modem is v.9 compatible ?", "label": "desc", "idx": 1978}
+{"sentence": "What racehorse won an Associated Press poll as the greatest horse of the 20th century ?", "label": "enty", "idx": 1997}
+{"sentence": "How you can raise your IQ ?", "label": "desc", "idx": 2118}
+{"sentence": "What is an arab strap ?", "label": "desc", "idx": 2160}
+{"sentence": "What is a urologist ?", "label": "desc", "idx": 2166}
+{"sentence": "How many miles is it from Frankfurt , Germany to Salzburg , Austria ?", "label": "num", "idx": 2170}
+{"sentence": "How fast must a spacecraft travel to escape Earth 's gravity ?", "label": "num", "idx": 2209}
+{"sentence": "What is the capital of Burkina Faso ?", "label": "loc", "idx": 2227}
+{"sentence": "Why do you say `` God bless you '' when people sneeze ?", "label": "desc", "idx": 2237}
+{"sentence": "How many calories are there in soy sauce ?", "label": "num", "idx": 2276}
+{"sentence": "What character narrates Treasure Island ?", "label": "hum", "idx": 2286}
+{"sentence": "What international organization was founded by Clara Barton ?", "label": "hum", "idx": 2303}
+{"sentence": "What country is proud to claim Volcano National Park ?", "label": "loc", "idx": 2352}
+{"sentence": "How is an executioner determined ?", "label": "desc", "idx": 2417}
+{"sentence": "What does a chiropodist treat ?", "label": "enty", "idx": 2512}
+{"sentence": "What TV game show once saw a contestant admit to picking his toes in the shower ?", "label": "enty", "idx": 2698}
+{"sentence": "What album put The Beatles on the cover of Time in 1967 ?", "label": "enty", "idx": 2749}
+{"sentence": "What countries have the highest ratio of university students ?", "label": "loc", "idx": 2752}
+{"sentence": "What did The Gas House Gang play ?", "label": "enty", "idx": 2959}
+{"sentence": "Name 11 famous martyrs .", "label": "hum", "idx": 2969}
+{"sentence": "Who was Darius ?", "label": "hum", "idx": 2974}
+{"sentence": "How many double-word-score spaces are there on a Scrabble Crossword Game board ?", "label": "num", "idx": 3053}
+{"sentence": "What is the secret of the universe ?", "label": "desc", "idx": 3102}
+{"sentence": "How many bones are there in the human hand ?", "label": "num", "idx": 3208}
+{"sentence": "How do they find or choose witnesses to an execution ?", "label": "desc", "idx": 3219}
+{"sentence": "How long should you feed your puppy Purina Puppy Chow ?", "label": "num", "idx": 3281}
+{"sentence": "In what year did Ireland elect its first woman president ?", "label": "num", "idx": 3319}
+{"sentence": "Who is the sexiest women in the world ?", "label": "hum", "idx": 3344}
+{"sentence": "What does the number `` 5 '' stand for on FUBU clothing ?", "label": "abbr", "idx": 3380}
+{"sentence": "What toy can you make sleep ?", "label": "enty", "idx": 3484}
+{"sentence": "How much folic acid should an expectant mother get daily ?", "label": "num", "idx": 3566}
+{"sentence": "What businesses or agencies would do an employment verification ?", "label": "hum", "idx": 3580}
+{"sentence": "What are the 28 tenses in the English language ?", "label": "enty", "idx": 3588}
+{"sentence": "Which of the following celebrities started his show-biz career as a disc jockey ?", "label": "hum", "idx": 3624}
+{"sentence": "What is celebrated during the week of February 21-27 ?", "label": "enty", "idx": 3640}
+{"sentence": "What is e-commerce ?", "label": "desc", "idx": 3653}
+{"sentence": "What bird can swim but can 't fly ?", "label": "enty", "idx": 3764}
+{"sentence": "How does the Nintendo `` Zapper '' work ?", "label": "desc", "idx": 4051}
+{"sentence": "Why do magnets attract ?", "label": "desc", "idx": 4086}
+{"sentence": "What does a collier mine ?", "label": "enty", "idx": 4132}
+{"sentence": "What was the nickname of Frederick I , Holy Roman Emperor and King of Germany ?", "label": "hum", "idx": 4137}
+{"sentence": "What operating system do IBM-compatible machines use ?", "label": "enty", "idx": 4213}
+{"sentence": "What are some important events of the 1830 's ?", "label": "enty", "idx": 4214}
+{"sentence": "What dangles over the tongue from the palate ?", "label": "enty", "idx": 4322}
+{"sentence": "What contemptible scoundrel stole the cork from my lunch ?", "label": "hum", "idx": 4366}
+{"sentence": "What kind of company is 7-Eleven ?", "label": "hum", "idx": 4450}
+{"sentence": "What is the meaning of `` subaru ? ''", "label": "desc", "idx": 4537}
+{"sentence": "In what year did Thatcher gain power ?", "label": "num", "idx": 4543}
+{"sentence": "What percentage of children between the ages of two and eleven watch ` The Simpsons ' ?", "label": "num", "idx": 4624}
+{"sentence": "What is the alphabet for Latin ?", "label": "enty", "idx": 4626}
+{"sentence": "How many colleges are in Wyoming ?", "label": "num", "idx": 4815}
+{"sentence": "How do you determine if a computer monitor has an SVGA adapter ?", "label": "desc", "idx": 4859}
+{"sentence": "What organization was founded by the Rev. Jerry Falwell ?", "label": "hum", "idx": 4876}
+{"sentence": "How is thalassemia defined ?", "label": "desc", "idx": 4895}
+{"sentence": "What country in 1998 had the most suicides regardless of population size ?", "label": "loc", "idx": 4898}
+{"sentence": "Where does most of the marijuana entering the United States come from ?", "label": "loc", "idx": 4901}

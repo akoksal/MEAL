@@ -1,0 +1,96 @@
+{"sentence": "Where did the term `` 86 '' come from ?", "label": "desc", "idx": 64}
+{"sentence": "How do you get bubblegum out of carpet ?", "label": "desc", "idx": 77}
+{"sentence": "How does a hurricane form ?", "label": "desc", "idx": 162}
+{"sentence": "What did the Confederate Constitution say about slavery ?", "label": "desc", "idx": 207}
+{"sentence": "How long do cardinal eggs incubate ?", "label": "num", "idx": 264}
+{"sentence": "Name the university of which Woodrow Wilson was president .", "label": "hum", "idx": 335}
+{"sentence": "When was the first Barbie produced ?", "label": "num", "idx": 423}
+{"sentence": "What comedienne calls her sister-in-law Captain Bligh and her mother-in-law Moby Dick ?", "label": "hum", "idx": 430}
+{"sentence": "Who was Damocles ?", "label": "hum", "idx": 480}
+{"sentence": "Who is the superstar in rent-a-cars ?", "label": "hum", "idx": 498}
+{"sentence": "What British prime minister and U.S. president were seventh cousins once-removed ?", "label": "hum", "idx": 505}
+{"sentence": "What New Hampshire hamlet rises early to vote first in U.S. presidential elections ?", "label": "loc", "idx": 507}
+{"sentence": "What part did Benjamin Franklin play in the development of the newspaper in America ?", "label": "hum", "idx": 508}
+{"sentence": "What is a fear of night or darkness ?", "label": "enty", "idx": 518}
+{"sentence": "Where is the Orange Bowl ?", "label": "loc", "idx": 622}
+{"sentence": "What Broadway show introduced the song Some Enchanted Evening ?", "label": "enty", "idx": 665}
+{"sentence": "What is the most common name ?", "label": "hum", "idx": 717}
+{"sentence": "What people make up half the Soviet Union 's population ?", "label": "hum", "idx": 730}
+{"sentence": "How many people died in the Vietnam war ?", "label": "num", "idx": 762}
+{"sentence": "What do camels store in their humps ?", "label": "enty", "idx": 780}
+{"sentence": "Name of scholar on whose literal translations from the Chinese and Japanese Ezra Pound depended ?", "label": "hum", "idx": 824}
+{"sentence": "What did Tristan come back as ?", "label": "enty", "idx": 865}
+{"sentence": "What is a fear of sinning ?", "label": "enty", "idx": 988}
+{"sentence": "What does the word `` opera '' mean ?", "label": "desc", "idx": 1026}
+{"sentence": "What company sells the most greeting cards ?", "label": "hum", "idx": 1033}
+{"sentence": "Who was Randy Steven Craft 's lawyer ?", "label": "hum", "idx": 1272}
+{"sentence": "How do you say 2 in Latin ?", "label": "enty", "idx": 1299}
+{"sentence": "When did the Carolingian period begin ?", "label": "num", "idx": 1322}
+{"sentence": "Who created `` The Muppets '' ?", "label": "hum", "idx": 1455}
+{"sentence": "What is the acreage of the Chappellet vineyard ?", "label": "num", "idx": 1491}
+{"sentence": "What is Latin for incompetent ?", "label": "enty", "idx": 1492}
+{"sentence": "What is the acronym for the National Bureau of Investigation ?", "label": "abbr", "idx": 1532}
+{"sentence": "Who has won the most Super Bowls ?", "label": "hum", "idx": 1606}
+{"sentence": "What 's the state motto of California ?", "label": "desc", "idx": 1680}
+{"sentence": "Where is Santa Lucia ?", "label": "loc", "idx": 1757}
+{"sentence": "What is the folklore story regarding birds ' nests and birds in Christmas trees ?", "label": "enty", "idx": 1768}
+{"sentence": "Who should I call to get a tour of the New York Stock Exchange ?", "label": "hum", "idx": 1854}
+{"sentence": "Name a technique widely used to detect birth defects ?", "label": "enty", "idx": 1922}
+{"sentence": "How many people die of tuberculosis yearly ?", "label": "num", "idx": 1980}
+{"sentence": "What is the most common cancer ?", "label": "enty", "idx": 2045}
+{"sentence": "What is the normal resting heart rate of a healthy adult ?", "label": "num", "idx": 2066}
+{"sentence": "Why is Rush 's 2112 called 2112 ?", "label": "desc", "idx": 2189}
+{"sentence": "How long after intercourse does it take to find out if you are pregnant ?", "label": "num", "idx": 2210}
+{"sentence": "What holidays are celebrated in Ireland ?", "label": "enty", "idx": 2219}
+{"sentence": "Who comprised the now-defunct comic book team known as the Champions ?", "label": "hum", "idx": 2242}
+{"sentence": "What 's the staff of life mentioned in the Lord 's Prayer ?", "label": "desc", "idx": 2395}
+{"sentence": "How do I get my LAN card activated so that it can hook up to another computer without using a HUB ?", "label": "desc", "idx": 2404}
+{"sentence": "How many rings are there on a five-zone archery target ?", "label": "num", "idx": 2433}
+{"sentence": "How do I know if I 'm jealous of someone ?", "label": "desc", "idx": 2448}
+{"sentence": "What is amezaiku ?", "label": "desc", "idx": 2460}
+{"sentence": "How long does it take sunlight to reach Earth ?", "label": "num", "idx": 2514}
+{"sentence": "Who was Hitler 's minister of propaganda ?", "label": "hum", "idx": 2763}
+{"sentence": "Who is the leader of Brunei ?", "label": "hum", "idx": 2766}
+{"sentence": "Who was The Pride of the Yankees ?", "label": "hum", "idx": 2787}
+{"sentence": "What country are Godiva chocolates from ?", "label": "loc", "idx": 2902}
+{"sentence": "What time of year do most people fly ?", "label": "num", "idx": 2957}
+{"sentence": "How can I find out my Moon sign ?", "label": "desc", "idx": 3103}
+{"sentence": "What 's the most common name in nursery rhymes ?", "label": "hum", "idx": 3146}
+{"sentence": "What day was Pearl Harbor attacked in 1942 ?", "label": "num", "idx": 3202}
+{"sentence": "What company tabulates the ballots in voting for the Academy Awards ?", "label": "hum", "idx": 3278}
+{"sentence": "Where was Christopher Columbus born ?", "label": "loc", "idx": 3306}
+{"sentence": "What was the distinguishing mark on the `` Little Rascals '' dog ?", "label": "enty", "idx": 3332}
+{"sentence": "Why is Microsoft 's Windows 3 software so successful ?", "label": "desc", "idx": 3346}
+{"sentence": "What are amicable numbers ?", "label": "desc", "idx": 3420}
+{"sentence": "What are the signs of a country going into a recession ?", "label": "enty", "idx": 3467}
+{"sentence": "What toy can you make sleep ?", "label": "enty", "idx": 3484}
+{"sentence": "Where are the tropical rain forest distributions ?", "label": "loc", "idx": 3492}
+{"sentence": "Define Sinn Fein .", "label": "desc", "idx": 3570}
+{"sentence": "What are the components of polyester ?", "label": "enty", "idx": 3622}
+{"sentence": "In what nation is Edessa located nowadays ?", "label": "loc", "idx": 3634}
+{"sentence": "Who portrayed the title character in the film The Day of the Jackal ?", "label": "hum", "idx": 3652}
+{"sentence": "Who said : `` Soldiers win the battles and generals get the credit '' ?", "label": "hum", "idx": 3756}
+{"sentence": "What harmful chemicals are in bug spray ?", "label": "enty", "idx": 3919}
+{"sentence": "What are the most albums sold by one artist or band ?", "label": "enty", "idx": 3928}
+{"sentence": "How can I find out how much income tax is paid on Social Security income on the 1998 income tax ?", "label": "desc", "idx": 3965}
+{"sentence": "What net game sees its women 's world amateur champions receive the Uber Cup ?", "label": "enty", "idx": 4100}
+{"sentence": "What is Tetrinet ?", "label": "desc", "idx": 4107}
+{"sentence": "What does the word camaro mean , from the GM car the Camaro ?", "label": "desc", "idx": 4193}
+{"sentence": "What is SAP ?", "label": "abbr", "idx": 4194}
+{"sentence": "What is the name of the second space shuttle ?", "label": "enty", "idx": 4239}
+{"sentence": "Who was Quetzalcoatl ?", "label": "hum", "idx": 4255}
+{"sentence": "How was the element calcium named ?", "label": "desc", "idx": 4288}
+{"sentence": "What is the recommended weight of a 15 year-old male that is 5 , 6 ?", "label": "num", "idx": 4319}
+{"sentence": "What is Rona Barrett 's married name ?", "label": "hum", "idx": 4332}
+{"sentence": "Who invented the pull-tab opener on cans ?", "label": "hum", "idx": 4335}
+{"sentence": "How much money can a person be fined for having a dog on a beach ?", "label": "num", "idx": 4412}
+{"sentence": "How many people visit the Pope each month ?", "label": "num", "idx": 4430}
+{"sentence": "What city was Martin Luther King Jr. assassinated in ?", "label": "loc", "idx": 4483}
+{"sentence": "How do you dunk ?", "label": "desc", "idx": 4574}
+{"sentence": "What basketball maneuver did Bert Loomis invent ?", "label": "enty", "idx": 4593}
+{"sentence": "What percentage of children between the ages of two and eleven watch ` The Simpsons ' ?", "label": "num", "idx": 4624}
+{"sentence": "How many years old is Benny Carter ?", "label": "num", "idx": 4627}
+{"sentence": "What does an edentulous smile lack ?", "label": "enty", "idx": 4696}
+{"sentence": "Why do airliners crash vs. gliding down ?", "label": "desc", "idx": 4711}
+{"sentence": "How high must a mountain be to be called a mountain ?", "label": "num", "idx": 4862}
+{"sentence": "Saddam Hussein was compared to whom by President Bush ?", "label": "hum", "idx": 4900}

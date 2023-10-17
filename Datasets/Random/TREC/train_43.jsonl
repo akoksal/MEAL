@@ -1,0 +1,96 @@
+{"sentence": "How can people from Ireland come to the U.S. , work , and then return to Ireland ?", "label": "desc", "idx": 20}
+{"sentence": "What happens when a body part falls asleep ?", "label": "desc", "idx": 139}
+{"sentence": "When did Muhammad live ?", "label": "num", "idx": 156}
+{"sentence": "What is the movie Jonathan Livingstone Seagull ?", "label": "enty", "idx": 311}
+{"sentence": "What should you do for an ankle sprain ?", "label": "desc", "idx": 315}
+{"sentence": "What was the species of Winnie the Pooh ?", "label": "enty", "idx": 338}
+{"sentence": "What is fiber in food ?", "label": "desc", "idx": 400}
+{"sentence": "What was the first Funk 'N Lata , Brazilian group , success ?", "label": "desc", "idx": 410}
+{"sentence": "What is the size of Argentina ?", "label": "num", "idx": 472}
+{"sentence": "What is the origin of the word Ozymandias ?", "label": "desc", "idx": 500}
+{"sentence": "What monarch signed the Magna Carta ?", "label": "hum", "idx": 501}
+{"sentence": "What is a Chinese `` spouting '' bowl ?", "label": "desc", "idx": 503}
+{"sentence": "What are the lengths of pearl necklaces ?", "label": "num", "idx": 520}
+{"sentence": "Who was the lawyer who represented Randy Steven Craft ?", "label": "hum", "idx": 576}
+{"sentence": "What famed tennis tournament 's men 's singles title was Fred Perry the last Englishman to win ?", "label": "enty", "idx": 631}
+{"sentence": "What is the origin and the meaning of the name , `` Hajo ? ''", "label": "desc", "idx": 656}
+{"sentence": "When did Amtrak begin operations ?", "label": "num", "idx": 685}
+{"sentence": "What fast-food magnate 's initials graced the left sleeve of the San Diego Padres ' baseball uniforms in 1984 ?", "label": "hum", "idx": 706}
+{"sentence": "What English word has the most letters ?", "label": "enty", "idx": 770}
+{"sentence": "Who wrote Unsafe at Any Speed ?", "label": "hum", "idx": 784}
+{"sentence": "How many names are there for Eskimo people ?", "label": "num", "idx": 788}
+{"sentence": "What is the abbreviated form of the National Bureau of Investigation ?", "label": "abbr", "idx": 844}
+{"sentence": "What does Ms. , Miss , and Mrs. stand for ?", "label": "abbr", "idx": 866}
+{"sentence": "How do you make panoramic sugar eggs for Easter - the ones with the scene inside ?", "label": "desc", "idx": 879}
+{"sentence": "Where is Tornado Alley ?", "label": "loc", "idx": 892}
+{"sentence": "What mountain range extends from the Gulf of St. Lawrence to Alabama ?", "label": "loc", "idx": 928}
+{"sentence": "What multitalented Academy-award-winning director failed a college course in motion-picture production ?", "label": "hum", "idx": 971}
+{"sentence": "How is cologne made ?", "label": "desc", "idx": 1018}
+{"sentence": "Where can I find correct tabs for Third Eye Blind songs ?", "label": "loc", "idx": 1020}
+{"sentence": "How can I call a friend in another country when I do not know the telephone number ?", "label": "desc", "idx": 1032}
+{"sentence": "What 's the largest U.S. city on the Great Lakes ?", "label": "loc", "idx": 1034}
+{"sentence": "On what continent is Mozambique ?", "label": "loc", "idx": 1041}
+{"sentence": "What astronomical phenomenon takes place in Jan. 1999 ?", "label": "enty", "idx": 1054}
+{"sentence": "Name the five positions who are in the line of succession to the presidency .", "label": "hum", "idx": 1179}
+{"sentence": "What is the name of Dolly Parton 's rarely seen husband ?", "label": "hum", "idx": 1200}
+{"sentence": "What can I do to get into an Ivy League school ?", "label": "desc", "idx": 1257}
+{"sentence": "What is Nitrox diving ?", "label": "desc", "idx": 1262}
+{"sentence": "Who is Nicolo Paganini ?", "label": "hum", "idx": 1315}
+{"sentence": "What city is the Kentucky Horse Park near ?", "label": "loc", "idx": 1357}
+{"sentence": "How do you reference a website ?", "label": "desc", "idx": 1366}
+{"sentence": "Who was the king who signed the Magna Carta ?", "label": "hum", "idx": 1443}
+{"sentence": "How fast does the fastest car go ?", "label": "num", "idx": 1489}
+{"sentence": "Where do lobsters like to live ?", "label": "loc", "idx": 1523}
+{"sentence": "What is the salary of a U.S. Representative ?", "label": "num", "idx": 1528}
+{"sentence": "What river flows through Vienna , Budapest and Belgrade ?", "label": "loc", "idx": 2196}
+{"sentence": "What is the capital of Burkina Faso ?", "label": "loc", "idx": 2227}
+{"sentence": "What is power steering ?", "label": "desc", "idx": 2255}
+{"sentence": "What feud ended with a marriage in Kentucky on March 21 , 1891 ?", "label": "enty", "idx": 2343}
+{"sentence": "Where can I find the schematics to the windshield wiper mechanism ?", "label": "loc", "idx": 2426}
+{"sentence": "How many rings are there on a five-zone archery target ?", "label": "num", "idx": 2433}
+{"sentence": "What was Queen Victoria 's title regarding India ?", "label": "hum", "idx": 2519}
+{"sentence": "What film was based on the play Everybody Comes to Rick 's ?", "label": "enty", "idx": 2617}
+{"sentence": "Which oil company almost picked a word that meant `` stalled car '' in Japanese as its new international name ?", "label": "hum", "idx": 2704}
+{"sentence": "How come light bulbs go out ?", "label": "desc", "idx": 2713}
+{"sentence": "What game is Garry Kasparov really good at ?", "label": "enty", "idx": 2765}
+{"sentence": "What are equity securities ?", "label": "desc", "idx": 2933}
+{"sentence": "What percentage of American men are alcoholic ?", "label": "num", "idx": 2961}
+{"sentence": "How do you get to the top of the Eiffel Tower ?", "label": "desc", "idx": 3015}
+{"sentence": "How did the bikini bathing suite get its name ?", "label": "desc", "idx": 3030}
+{"sentence": "What musical instrument did Prewitt play in James Jones 's From Here to Eternity ?", "label": "enty", "idx": 3050}
+{"sentence": "How many hours of work does it take a typist to complete a 100-page screenplay ?", "label": "num", "idx": 3079}
+{"sentence": "What is the name of the Islamic counterpart to the Red Cross ?", "label": "enty", "idx": 3087}
+{"sentence": "Who declared : `` I am down on whores and I shan 't stop ripping them '' ?", "label": "hum", "idx": 3169}
+{"sentence": "What are values ?", "label": "desc", "idx": 3227}
+{"sentence": "The second most popular sport worldwide is what ?", "label": "enty", "idx": 3399}
+{"sentence": "What is a plant supplement ?", "label": "desc", "idx": 3479}
+{"sentence": "What does the name Melissa mean ?", "label": "desc", "idx": 3542}
+{"sentence": "What country has the largest sheep population ?", "label": "loc", "idx": 3555}
+{"sentence": "Where can I get a complete listing of showtimes in my area ?", "label": "loc", "idx": 3594}
+{"sentence": "How many small businesses are there in the U.S .", "label": "num", "idx": 3629}
+{"sentence": "What does a pedometer measure ?", "label": "enty", "idx": 3712}
+{"sentence": "What was the proper Laugh-In respones to : `` Say goodnight , Dick '' ?", "label": "desc", "idx": 3747}
+{"sentence": "What is a neurosurgeon ?", "label": "desc", "idx": 3789}
+{"sentence": "Where can I find a large list of 5 to 6 letter words ?", "label": "loc", "idx": 3875}
+{"sentence": "Who was the first woman to fly solo across the Atlantic ?", "label": "hum", "idx": 4054}
+{"sentence": "Name the 5 words that use all of the letters in the alphabet , except Q , with no repeats .", "label": "enty", "idx": 4063}
+{"sentence": "What radio , TV and movie character did Jackie Gleason and William Bendix play ?", "label": "hum", "idx": 4081}
+{"sentence": "Name a civil war battlefield .", "label": "loc", "idx": 4150}
+{"sentence": "What European race sees the winner of its mountain stage awarded a jersey with large red polka dots ?", "label": "enty", "idx": 4197}
+{"sentence": "What chess outcome results when a player has no legal move ?", "label": "enty", "idx": 4211}
+{"sentence": "What island group contains Jersey , Guernsey , Sark and Herm ?", "label": "loc", "idx": 4278}
+{"sentence": "What is Rona Barrett 's married name ?", "label": "hum", "idx": 4332}
+{"sentence": "What are bear and bull markets ?", "label": "desc", "idx": 4384}
+{"sentence": "How can anyone tell if a female had sexual intercourse ?", "label": "desc", "idx": 4480}
+{"sentence": "What is so powerful about Power Bars ?", "label": "desc", "idx": 4521}
+{"sentence": "What is the full classification of a lady bug ?", "label": "enty", "idx": 4702}
+{"sentence": "Why do airliners crash vs. gliding down ?", "label": "desc", "idx": 4711}
+{"sentence": "How long does a fly live ?", "label": "num", "idx": 4723}
+{"sentence": "What was the backup singing group for Roy Rogers ?", "label": "hum", "idx": 4745}
+{"sentence": "Which infectious disease is the world 's deadliest ?", "label": "enty", "idx": 4787}
+{"sentence": "What animal causes the biggest threat to humans ?", "label": "enty", "idx": 4809}
+{"sentence": "What state is Mount McKinley in ?", "label": "loc", "idx": 4844}
+{"sentence": "Which two products use a tiger as their symbol ?", "label": "enty", "idx": 4892}
+{"sentence": "What 's the geographic term for the submerged fringe of a continent ?", "label": "enty", "idx": 4905}
+{"sentence": "What was the importance of Magellan ?", "label": "desc", "idx": 4930}
+{"sentence": "How can I get a CCT diagram ?", "label": "desc", "idx": 4951}

@@ -1,0 +1,96 @@
+{"sentence": "What were the trials called which followed World War II ?", "label": "enty", "idx": 42}
+{"sentence": "What is the name of the game that Garry Kasparov plays ?", "label": "enty", "idx": 76}
+{"sentence": "What year were the Olympic Games played in where Nadia Comaneci became popular ?", "label": "num", "idx": 79}
+{"sentence": "What does the donation process entail ?", "label": "desc", "idx": 94}
+{"sentence": "What is June 's birthstone ?", "label": "desc", "idx": 95}
+{"sentence": "What are the highest-paying odds on a roulette table ?", "label": "num", "idx": 100}
+{"sentence": "What is the geographical center of the US including Alaska and Hawaii ?", "label": "loc", "idx": 132}
+{"sentence": "Who was the first elected mayor of Washington , D.C. ?", "label": "hum", "idx": 322}
+{"sentence": "Who was the 15th century fire-and-brimstone monk who gained control of Florence but ended burnt at the stake ?", "label": "hum", "idx": 385}
+{"sentence": "What 's the name of Pittsburgh 's baseball team ?", "label": "hum", "idx": 506}
+{"sentence": "What are the five most expensive cities in the world ?", "label": "loc", "idx": 553}
+{"sentence": "What state does Martha Stewart live in ?", "label": "loc", "idx": 563}
+{"sentence": "What is the largest city in the world ?", "label": "loc", "idx": 603}
+{"sentence": "What is one of the cities that the University of Minnesota is located in ?", "label": "loc", "idx": 616}
+{"sentence": "What is the name of the largest city in Chile , South America ?", "label": "loc", "idx": 672}
+{"sentence": "How far can a human eye see ?", "label": "num", "idx": 710}
+{"sentence": "What is the best place to live in the world , considering climate , civilization ?", "label": "loc", "idx": 754}
+{"sentence": "What did Tristan come back as ?", "label": "enty", "idx": 865}
+{"sentence": "Where is Mozambique located ?", "label": "loc", "idx": 950}
+{"sentence": "What were the first three cities to have a population of more than a million ?", "label": "loc", "idx": 997}
+{"sentence": "How many member states are in the UN ?", "label": "num", "idx": 1009}
+{"sentence": "What is the weakest bone in the body ?", "label": "enty", "idx": 1024}
+{"sentence": "What 's the largest U.S. city on the Great Lakes ?", "label": "loc", "idx": 1034}
+{"sentence": "On what continent is Mozambique ?", "label": "loc", "idx": 1041}
+{"sentence": "What does SHIELD stand for ?", "label": "abbr", "idx": 1063}
+{"sentence": "Who was Tiny Tim 's father ?", "label": "hum", "idx": 1305}
+{"sentence": "Where is Belize located ?", "label": "loc", "idx": 1309}
+{"sentence": "What is the Viking Prince 's first name ?", "label": "hum", "idx": 1324}
+{"sentence": "In what city is the famed St. Mark 's Square ?", "label": "loc", "idx": 1410}
+{"sentence": "How does it make its colors ?", "label": "desc", "idx": 1430}
+{"sentence": "What are the Arabic Numerals from 1 to 10 ?", "label": "desc", "idx": 1446}
+{"sentence": "What are the powers and weaknesses of Green Lantern 's ring ?", "label": "desc", "idx": 1470}
+{"sentence": "How many were in attendance at the Last Supper ?", "label": "num", "idx": 1481}
+{"sentence": "How many zeros are there in a trillion ?", "label": "num", "idx": 1495}
+{"sentence": "How did Super President gain his powers on the animated series ?", "label": "desc", "idx": 1502}
+{"sentence": "What is the difference between a board of directors and an advisory board ?", "label": "desc", "idx": 1603}
+{"sentence": "What 's the oldest capital city in the Americas ?", "label": "loc", "idx": 1689}
+{"sentence": "What is a ` borrow pit ' ?", "label": "desc", "idx": 1826}
+{"sentence": "What is the population of the largest Chilean city", "label": "num", "idx": 1852}
+{"sentence": "In Hemingway 's `` Old Man and the Sea , '' what kind of fish does the old man catch ?", "label": "enty", "idx": 1866}
+{"sentence": "What is the Pennsylvania state income tax rate ?", "label": "num", "idx": 1876}
+{"sentence": "Where is the location of the Orange Bowl ?", "label": "loc", "idx": 1893}
+{"sentence": "What is Alice Cooper 's real name ?", "label": "hum", "idx": 1931}
+{"sentence": "What organization is the Security Council a part of ?", "label": "hum", "idx": 2072}
+{"sentence": "What is a 2-sided object called ?", "label": "enty", "idx": 2086}
+{"sentence": "How many bones are in the human hand ?", "label": "num", "idx": 2122}
+{"sentence": "What does the word affiant mean ?", "label": "desc", "idx": 2134}
+{"sentence": "Which organization is the Security Council a part of ?", "label": "hum", "idx": 2146}
+{"sentence": "What country 's capital is Tirana ?", "label": "loc", "idx": 2168}
+{"sentence": "What was the name of the U.S. 's first manned space program ?", "label": "enty", "idx": 2302}
+{"sentence": "What did the Congress of Vienna establish ?", "label": "enty", "idx": 2320}
+{"sentence": "What country , after Canada and Mexico , is closest to the U.S. ?", "label": "loc", "idx": 2361}
+{"sentence": "What 's the second-largest island in the world ?", "label": "loc", "idx": 2372}
+{"sentence": "What city is . KDGE Radio located in ?", "label": "loc", "idx": 2397}
+{"sentence": "How many corners does a spritsail have ?", "label": "num", "idx": 2401}
+{"sentence": "What square is the geographical center of London ?", "label": "loc", "idx": 2407}
+{"sentence": "What number is at 12 o 'clock on a dartboard ?", "label": "num", "idx": 2465}
+{"sentence": "What is the location of McCarren Airport ?", "label": "loc", "idx": 2516}
+{"sentence": "The Kentucky Horse Park is close to which American city ?", "label": "loc", "idx": 2558}
+{"sentence": "Where does Mother Angelica live ?", "label": "loc", "idx": 2591}
+{"sentence": "What was the role of the Medieval Guild ?", "label": "hum", "idx": 2622}
+{"sentence": "What is the cultural origin of the ceremony of potlatch ?", "label": "desc", "idx": 2637}
+{"sentence": "What is the highest Roman numeral ?", "label": "desc", "idx": 2645}
+{"sentence": "What is a `` node '' in computer terms ?", "label": "desc", "idx": 2655}
+{"sentence": "What country has the most time zones , with 11 ?", "label": "loc", "idx": 2681}
+{"sentence": "How many of them are in sub-Saharan Africa ?", "label": "num", "idx": 2691}
+{"sentence": "How many miles is it from NY to Austria ?", "label": "num", "idx": 2736}
+{"sentence": "What 's the largest island in the West Indies ?", "label": "loc", "idx": 2760}
+{"sentence": "How many bytes are in a terabyte ?", "label": "num", "idx": 2768}
+{"sentence": "The Orange Bowl is in what city ?", "label": "loc", "idx": 2913}
+{"sentence": "Where is Mile High Stadium ?", "label": "loc", "idx": 2984}
+{"sentence": "How many stations do you shoot from in the basketball game `` Around the World '' ?", "label": "num", "idx": 3060}
+{"sentence": "What is the name of the Islamic counterpart to the Red Cross ?", "label": "enty", "idx": 3087}
+{"sentence": "What is the location of Edinburgh , Scotland ?", "label": "loc", "idx": 3203}
+{"sentence": "How many bones are there in the human hand ?", "label": "num", "idx": 3208}
+{"sentence": "How do you find out what is allowed to claim as a contibution for income tax purposes ?", "label": "desc", "idx": 3244}
+{"sentence": "How much did Varian Associates try to sell its vacuum products division to the BOC group for ?", "label": "num", "idx": 3251}
+{"sentence": "What color Poker chip is usually assigned the lowest value ?", "label": "enty", "idx": 3261}
+{"sentence": "Who appointed the chair of the Federal Reserve ?", "label": "hum", "idx": 3296}
+{"sentence": "What kind of animal is Babar ?", "label": "enty", "idx": 3311}
+{"sentence": "What was the name of the Protestant revolt against the supremacy of the Pope ?", "label": "enty", "idx": 3322}
+{"sentence": "What are the capital cities of the two large countries that occupy the Iberian peninsula in Europe ?", "label": "loc", "idx": 3353}
+{"sentence": "What is the HIGHEST Roman numeral ?", "label": "desc", "idx": 3503}
+{"sentence": "When were the Olympic Games in which Nadia Comaneci became popular played ?", "label": "num", "idx": 3521}
+{"sentence": "What bordering country is due north of Costa Rica ?", "label": "loc", "idx": 3801}
+{"sentence": "What city boasts Penn 's Landing , on the banks of the Delaware river ?", "label": "loc", "idx": 3823}
+{"sentence": "What city has the two steepest streets in the U.S. ?", "label": "loc", "idx": 3944}
+{"sentence": "What 's the Red Planet ?", "label": "desc", "idx": 3963}
+{"sentence": "What is the theory of equivalence states ?", "label": "desc", "idx": 4129}
+{"sentence": "What is SAP ?", "label": "abbr", "idx": 4194}
+{"sentence": "What country in Latin America is the largest one ?", "label": "loc", "idx": 4397}
+{"sentence": "What shape-shifting menace did Rom come to Earth to fight ?", "label": "enty", "idx": 4542}
+{"sentence": "What is a Guild ?", "label": "desc", "idx": 4566}
+{"sentence": "What North American city boasts the biggest Polish population ?", "label": "loc", "idx": 4635}
+{"sentence": "How does the car in `` Christine '' become possessed ?", "label": "desc", "idx": 4757}
+{"sentence": "McCarren Airport is located in what city ?", "label": "loc", "idx": 4772}

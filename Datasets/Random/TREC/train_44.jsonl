@@ -1,0 +1,96 @@
+{"sentence": "Who made the most appearances in the center square on Hollywood Squares ?", "label": "hum", "idx": 44}
+{"sentence": "What is Compaq 's mission statement ?", "label": "desc", "idx": 55}
+{"sentence": "What is Archimedes famous for ?", "label": "desc", "idx": 72}
+{"sentence": "What is the name of the game that Garry Kasparov plays ?", "label": "enty", "idx": 76}
+{"sentence": "What city was Bobby Kennedy assassinated in ?", "label": "loc", "idx": 119}
+{"sentence": "How can I stop or slow down aging ?", "label": "desc", "idx": 238}
+{"sentence": "What films featured the character Popeye Doyle ?", "label": "enty", "idx": 286}
+{"sentence": "Why is Microsoft 's Windows 3 such a successful computer program ?", "label": "desc", "idx": 309}
+{"sentence": "What alloy do copper and tin form ?", "label": "enty", "idx": 355}
+{"sentence": "What became the biggest cash crop in the U.S. in 1983 , surpassing corn ?", "label": "enty", "idx": 357}
+{"sentence": "How much will the California be in the year 2000 ?", "label": "num", "idx": 393}
+{"sentence": "What Pope inaugurated Vatican International Radio ?", "label": "hum", "idx": 403}
+{"sentence": "How many yards are in 1 mile ?", "label": "num", "idx": 485}
+{"sentence": "Who established a Viking colony in Greenland about 985 ?", "label": "hum", "idx": 516}
+{"sentence": "What was the only country in the Western Hemisphere to join the Russian-led boycott of the 1984 Summer Olympics ?", "label": "loc", "idx": 573}
+{"sentence": "How do websites like Yahoo and Excite make money ?", "label": "desc", "idx": 602}
+{"sentence": "What is the web address at which I can find the e-mail address of a member of the US House of Representatives ?", "label": "loc", "idx": 609}
+{"sentence": "Who was the captain of the tanker , Exxon Valdez , involved in the oil spill in Prince William Sound , Alaska , 1989 ?", "label": "hum", "idx": 775}
+{"sentence": "Who wrote Unsafe at Any Speed ?", "label": "hum", "idx": 784}
+{"sentence": "What two countries fought the Hundred Years ' War ?", "label": "loc", "idx": 820}
+{"sentence": "What colorful sea 's region does Greek legend say the Amazons lived near ?", "label": "loc", "idx": 882}
+{"sentence": "In what area of the world was the Six Day War fought ?", "label": "loc", "idx": 913}
+{"sentence": "Who said : `` Old soldiers never die ; they just fade away '' ?", "label": "hum", "idx": 917}
+{"sentence": "Who declared : `` I think I 'll go out and milk the elk '' ?", "label": "hum", "idx": 920}
+{"sentence": "What comic strip sometimes features a mailman named Beasley ?", "label": "enty", "idx": 955}
+{"sentence": "How much do tuberculosis combatting drugs cost ?", "label": "num", "idx": 1003}
+{"sentence": "What is the brand name of the chemical daminozide ?", "label": "enty", "idx": 1065}
+{"sentence": "What doctor is synonymous with footwear and foot care ?", "label": "hum", "idx": 1168}
+{"sentence": "What is the name of the dog on the Cracker Jack box ?", "label": "enty", "idx": 1233}
+{"sentence": "What does the name `` Justin '' mean ?", "label": "desc", "idx": 1283}
+{"sentence": "Which country is known as `` Big Bear '' ?", "label": "loc", "idx": 1288}
+{"sentence": "What happened to Phillip Taylor Kramer ?", "label": "desc", "idx": 1302}
+{"sentence": "Who is the famous movie star who also acted as sewer commissioner of Provo Canyon , Utah ?", "label": "hum", "idx": 1447}
+{"sentence": "What happened in the Long March ?", "label": "desc", "idx": 1461}
+{"sentence": "What are close encounters of the first and second kind ?", "label": "enty", "idx": 1469}
+{"sentence": "Where is Los Vegas ?", "label": "loc", "idx": 1544}
+{"sentence": "Who is the prime minister in Norway ?", "label": "hum", "idx": 1561}
+{"sentence": "Who wrote the poem that starts `` I love your lips when they 're wet with wine and red with a warm desire '' ?", "label": "hum", "idx": 1630}
+{"sentence": "What was the first U.S.-based team in the NHL ?", "label": "hum", "idx": 1828}
+{"sentence": "What name does the world know Renaissance artist Kyriakos Theotokopoulos by ?", "label": "hum", "idx": 1833}
+{"sentence": "What baseball great plugged Mr. Coffee ?", "label": "hum", "idx": 1840}
+{"sentence": "What color is `` ash '' ?", "label": "enty", "idx": 1844}
+{"sentence": "Who is the creator of `` The Muppets '' ?", "label": "hum", "idx": 1910}
+{"sentence": "Where is Amsterdam ?", "label": "loc", "idx": 2031}
+{"sentence": "How did the Great Depression affect Japan 's history ?", "label": "desc", "idx": 2116}
+{"sentence": "What 's the second-most-used vowel in English ?", "label": "enty", "idx": 2211}
+{"sentence": "What Mediterranean island is home to the first Club Med ?", "label": "loc", "idx": 2228}
+{"sentence": "Where can I get a map of Prussia on the Internet ?", "label": "loc", "idx": 2243}
+{"sentence": "What do players try to do when the music stops in a game of musical chairs ?", "label": "desc", "idx": 2277}
+{"sentence": "What did Benny Carter play ?", "label": "enty", "idx": 2307}
+{"sentence": "What chapter of Gone with the Wind has Rhett Butler leaving Scarlett O 'Hara ?", "label": "num", "idx": 2316}
+{"sentence": "What 's the second-largest island in the world ?", "label": "loc", "idx": 2372}
+{"sentence": "Who lives at 39 Stone Canyon Way ?", "label": "hum", "idx": 2373}
+{"sentence": "What is the spectrum of a sine wave ?", "label": "desc", "idx": 2405}
+{"sentence": "What type of exercise burns the most calories ?", "label": "enty", "idx": 2482}
+{"sentence": "Where is the Isle of Man ?", "label": "loc", "idx": 2583}
+{"sentence": "When not adventuring on Rann , what does Adam Strange call his profession ?", "label": "hum", "idx": 2671}
+{"sentence": "What species is a colt ?", "label": "enty", "idx": 2692}
+{"sentence": "Which city in China has the largest number of foreign financial companies ?", "label": "loc", "idx": 2775}
+{"sentence": "What is New England 's highest mountain ?", "label": "loc", "idx": 2786}
+{"sentence": "What poet wrote : `` ... I have promises to keep , and miles to go before I sleep '' ?", "label": "hum", "idx": 2822}
+{"sentence": "What country contains the highest point in South America ?", "label": "loc", "idx": 2833}
+{"sentence": "How many pins are used in skittles ?", "label": "num", "idx": 2921}
+{"sentence": "What sport is known for hooligans ?", "label": "enty", "idx": 2935}
+{"sentence": "How many people live in Tokyo ?", "label": "num", "idx": 2956}
+{"sentence": "Name Dick Tracy 's two children .", "label": "hum", "idx": 3027}
+{"sentence": "What is November 's birthstone ?", "label": "enty", "idx": 3100}
+{"sentence": "What Robert Louis Stevenson novel was inspired by Deacon William Brodie , a cabinetmaker by day and burglar by night ?", "label": "enty", "idx": 3109}
+{"sentence": "Who founded the Unification Church ?", "label": "hum", "idx": 3161}
+{"sentence": "What debts did Qintex group leave ?", "label": "num", "idx": 3313}
+{"sentence": "What two historical figures , who fought each other in a famous battle , each have a food named after them ?", "label": "hum", "idx": 3318}
+{"sentence": "Why is Microsoft 's Windows 3 software so successful ?", "label": "desc", "idx": 3346}
+{"sentence": "How much did Alaska cost when bought from Russia ?", "label": "num", "idx": 3549}
+{"sentence": "What is the number of American soldiers deployed to South Korea ?", "label": "num", "idx": 3565}
+{"sentence": "What is Remembrance Day all about ?", "label": "desc", "idx": 3574}
+{"sentence": "What wrestling star became `` The Incredible Hulk '' ?", "label": "hum", "idx": 3716}
+{"sentence": "What product `` doubles your pleasure , doubles your fun '' ?", "label": "enty", "idx": 3732}
+{"sentence": "What is a fear of weakness ?", "label": "enty", "idx": 3857}
+{"sentence": "What city was President William McKinley shot in ?", "label": "loc", "idx": 3882}
+{"sentence": "In what war was the first submarine used ?", "label": "enty", "idx": 3900}
+{"sentence": "What U.S. President showed a fondness for munching on bee pollen bars ?", "label": "hum", "idx": 3909}
+{"sentence": "What town was the setting for The Music Man ?", "label": "loc", "idx": 3960}
+{"sentence": "What celestial body has a diameter of 864 , 000 miles ?", "label": "loc", "idx": 4186}
+{"sentence": "What was the death toll at the eruption of Mount Pinatubo ?", "label": "num", "idx": 4208}
+{"sentence": "What crop failure caused the Irish Famine ?", "label": "enty", "idx": 4260}
+{"sentence": "How long ago did the Anglican church part from the Vatican ?", "label": "num", "idx": 4428}
+{"sentence": "What 's the traditional drink at the Kentucky Derby ?", "label": "enty", "idx": 4439}
+{"sentence": "Who is section manager for guidance and control systems at JPL ?", "label": "hum", "idx": 4449}
+{"sentence": "Where did Hillary Clinton graduate college ?", "label": "loc", "idx": 4554}
+{"sentence": "What is a disaccharide ?", "label": "desc", "idx": 4616}
+{"sentence": "How do I find if my relatives were on the Trail of Tears ?", "label": "desc", "idx": 4658}
+{"sentence": "What percent of world 's fresh water is found in Canada ?", "label": "num", "idx": 4751}
+{"sentence": "Who was the president of Vichy France ?", "label": "hum", "idx": 4821}
+{"sentence": "What is Larry King 's occupation ?", "label": "hum", "idx": 4833}
+{"sentence": "What kind of education would you need to become an athletic trainer for the NFL ?", "label": "enty", "idx": 4841}
+{"sentence": "What is the text of the Fifth Amendment ?", "label": "desc", "idx": 4946}

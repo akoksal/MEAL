@@ -1,0 +1,96 @@
+{"sentence": "What 's a perfect score in a gymnastics exercise ?", "label": "num", "idx": 26}
+{"sentence": "How big is the Electoral College ?", "label": "num", "idx": 46}
+{"sentence": "What concerts are held in New York this week ?", "label": "enty", "idx": 50}
+{"sentence": "What is the price for tuberculosis drugs ?", "label": "num", "idx": 141}
+{"sentence": "How much in miles is a ten K run ?", "label": "num", "idx": 176}
+{"sentence": "How can I get rich quick ?", "label": "desc", "idx": 231}
+{"sentence": "What are the benefits of a rowing machine ?", "label": "desc", "idx": 272}
+{"sentence": "What was the target rate for M3 growth in 1992 ?", "label": "num", "idx": 295}
+{"sentence": "What is the best brand for a laptop computer ?", "label": "enty", "idx": 379}
+{"sentence": "About how many Americans are still unaccounted for from the Vietnam war ?", "label": "num", "idx": 398}
+{"sentence": "What Pope inaugurated Vatican International Radio ?", "label": "hum", "idx": 403}
+{"sentence": "What four tournaments make up tennis ' Grand Slam ?", "label": "enty", "idx": 470}
+{"sentence": "What is measured in curies ?", "label": "desc", "idx": 471}
+{"sentence": "Where can I look at a perpetual calendar ?", "label": "loc", "idx": 509}
+{"sentence": "How do websites like Yahoo and Excite make money ?", "label": "desc", "idx": 602}
+{"sentence": "What does appropriates money mean ?", "label": "desc", "idx": 623}
+{"sentence": "What percent liked Thatcher after she had been in power for a decade ?", "label": "num", "idx": 648}
+{"sentence": "How many years make up a lustrum ?", "label": "num", "idx": 724}
+{"sentence": "Where can I get mailing lists ?", "label": "loc", "idx": 757}
+{"sentence": "How many cards is each player dealt in Contract Bridge ?", "label": "num", "idx": 773}
+{"sentence": "What have you not let a tennis ball do if you volley ?", "label": "desc", "idx": 857}
+{"sentence": "How is Answers.com funded ?", "label": "desc", "idx": 891}
+{"sentence": "What is the economic impact of unemployment on the economy ?", "label": "desc", "idx": 893}
+{"sentence": "What female faith healer wrote the inspirational book I Believe in Miracles ?", "label": "hum", "idx": 976}
+{"sentence": "How much do tuberculosis combatting drugs cost ?", "label": "num", "idx": 1003}
+{"sentence": "How many member states are in the UN ?", "label": "num", "idx": 1009}
+{"sentence": "The Jewish alphabet is known as what ?", "label": "enty", "idx": 1087}
+{"sentence": "What Pope inaugurated Vatican International Radio ?", "label": "hum", "idx": 1225}
+{"sentence": "What does NASDAQ stand for ?", "label": "abbr", "idx": 1226}
+{"sentence": "How many questions do you have on your database ?", "label": "num", "idx": 1298}
+{"sentence": "How many Beanie Baby sites are there ?", "label": "num", "idx": 1442}
+{"sentence": "What is Latin for incompetent ?", "label": "enty", "idx": 1492}
+{"sentence": "How do you clean badly tarnished brass ?", "label": "desc", "idx": 1547}
+{"sentence": "Who told all in Ball Four ?", "label": "hum", "idx": 1650}
+{"sentence": "How many students attend the University of Massachusetts ?", "label": "num", "idx": 1663}
+{"sentence": "When will the millennium officially begin ?", "label": "num", "idx": 1691}
+{"sentence": "What is the current unemployment rate in the U.S. ?", "label": "num", "idx": 1716}
+{"sentence": "How do I find the balance of my social security account ?", "label": "desc", "idx": 1742}
+{"sentence": "Who should I call to get a tour of the New York Stock Exchange ?", "label": "hum", "idx": 1854}
+{"sentence": "Where can I find a list of all the companies in America that offer a direct stock purchase plan ?", "label": "loc", "idx": 1896}
+{"sentence": "How much did the Iran-Contra investigation cost ?", "label": "num", "idx": 1973}
+{"sentence": "Who is the director of intergovernmental affairs for the San Diego county ?", "label": "hum", "idx": 2095}
+{"sentence": "What mayor made so many TV appearances he was asked to join AFTRA in 1984 ?", "label": "hum", "idx": 2124}
+{"sentence": "What Dynasty star made her 2th Century-Fox debut in The Virgin Queen ?", "label": "hum", "idx": 2294}
+{"sentence": "How do you match a name to a social security number ?", "label": "desc", "idx": 2399}
+{"sentence": "When is the Jimmy Buffett concert coming to the E center in Camden NJ ?", "label": "num", "idx": 2402}
+{"sentence": "How do I get my LAN card activated so that it can hook up to another computer without using a HUB ?", "label": "desc", "idx": 2404}
+{"sentence": "What are the best ways to improve employee morale at low cost ?", "label": "enty", "idx": 2424}
+{"sentence": "What is the starting salary for beginning lawyers ?", "label": "num", "idx": 2431}
+{"sentence": "Where can I find a case on Individuals with Disabilities Education Act of 1991 ?", "label": "loc", "idx": 2479}
+{"sentence": "What type of exercise burns the most calories ?", "label": "enty", "idx": 2482}
+{"sentence": "What do you need to do to marry someone in jail ?", "label": "desc", "idx": 2517}
+{"sentence": "Where can I get piano music for the Jamiroquai song Everyday for the midi ?", "label": "loc", "idx": 2546}
+{"sentence": "What inescapable purveyor of background music celebrated its 5th anniversary in July , 1984 ?", "label": "hum", "idx": 2656}
+{"sentence": "Which Bloom County resident wreaks havoc with a computer ?", "label": "hum", "idx": 2690}
+{"sentence": "Independent silversmith 's account for what percentage of silver production ?", "label": "num", "idx": 2711}
+{"sentence": "What type of currency is used in China ?", "label": "enty", "idx": 2790}
+{"sentence": "Where can I get U.S. economic statistics ?", "label": "loc", "idx": 2832}
+{"sentence": "Who made the musical plea Be True to Your School ?", "label": "hum", "idx": 2896}
+{"sentence": "What is the name of the Jewish alphabet ?", "label": "enty", "idx": 2996}
+{"sentence": "What does CNN stand for ?", "label": "abbr", "idx": 3147}
+{"sentence": "Who founded the Unification Church ?", "label": "hum", "idx": 3161}
+{"sentence": "What 's the highest possible bid in Contract Bridge ?", "label": "enty", "idx": 3196}
+{"sentence": "What is the cost of the drugs used in tuberculosis treatments ?", "label": "num", "idx": 3204}
+{"sentence": "CNN is owned by whom ?", "label": "hum", "idx": 3229}
+{"sentence": "How do you find out what is allowed to claim as a contibution for income tax purposes ?", "label": "desc", "idx": 3244}
+{"sentence": "What percentage of the silver production is done by independent silversmiths ?", "label": "num", "idx": 3282}
+{"sentence": "What 's a perfect score in a gymnastics exercise ?", "label": "num", "idx": 3338}
+{"sentence": "Whose acceptance speech of more than 3 minutes prompted a time limit on Academy Award thank-yous ?", "label": "hum", "idx": 3410}
+{"sentence": "How much money was the minimum wage in 1991 ?", "label": "num", "idx": 3461}
+{"sentence": "What is the mean income of the top 10% , top 5% , and top 1% ?", "label": "num", "idx": 3520}
+{"sentence": "How many small businesses are there in the U.S .", "label": "num", "idx": 3629}
+{"sentence": "What is celebrated during the week of February 21-27 ?", "label": "enty", "idx": 3640}
+{"sentence": "What is a `` repeating voter '' ?", "label": "desc", "idx": 3769}
+{"sentence": "The Jewish alphabet is called what ?", "label": "enty", "idx": 3827}
+{"sentence": "How can I find out how much income tax is paid on Social Security income on the 1998 income tax ?", "label": "desc", "idx": 3965}
+{"sentence": "What net game sees its women 's world amateur champions receive the Uber Cup ?", "label": "enty", "idx": 4100}
+{"sentence": "What attorneys work for The Center for the Defense of Free Enterprise ?", "label": "hum", "idx": 4115}
+{"sentence": "Where can I find free piano scores for popular music ?", "label": "loc", "idx": 4127}
+{"sentence": "How do I tie a tie ?", "label": "desc", "idx": 4135}
+{"sentence": "Where can I find the status of my tax return ?", "label": "loc", "idx": 4140}
+{"sentence": "What chess outcome results when a player has no legal move ?", "label": "enty", "idx": 4211}
+{"sentence": "What operating system do IBM-compatible machines use ?", "label": "enty", "idx": 4213}
+{"sentence": "What states do not have state income tax ?", "label": "loc", "idx": 4280}
+{"sentence": "Where can I find out the top 1 singles ?", "label": "loc", "idx": 4282}
+{"sentence": "Where are some great educational resources for parents and teachers ?", "label": "loc", "idx": 4420}
+{"sentence": "What oldtime kids ' fare did TV Guide writer Jeff Greenfield call `` one of the most...subversive TV shows in American history '' ?", "label": "enty", "idx": 4427}
+{"sentence": "How many people visit the Pope each month ?", "label": "num", "idx": 4430}
+{"sentence": "What is the average cost for four years of medical school ?", "label": "num", "idx": 4431}
+{"sentence": "How many Canadians emmigrate each year ?", "label": "num", "idx": 4456}
+{"sentence": "How do you stop junk snail mail ?", "label": "desc", "idx": 4506}
+{"sentence": "What is the alphabet for Latin ?", "label": "enty", "idx": 4626}
+{"sentence": "How is the election of a new Pope announced to the world ?", "label": "desc", "idx": 4727}
+{"sentence": "What do you call a `` twirl '' in ballet ?", "label": "enty", "idx": 4762}
+{"sentence": "How much do drugs to treat tuberculosis cost ?", "label": "num", "idx": 4850}
+{"sentence": "What organization was founded by the Rev. Jerry Falwell ?", "label": "hum", "idx": 4876}

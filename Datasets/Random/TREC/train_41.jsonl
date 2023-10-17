@@ -1,0 +1,96 @@
+{"sentence": "What is the name of the game that Garry Kasparov plays ?", "label": "enty", "idx": 76}
+{"sentence": "What was the effect of the Yalta Conference ?", "label": "desc", "idx": 116}
+{"sentence": "What is an example of a natural acid-base indicator ?", "label": "enty", "idx": 150}
+{"sentence": "Who made the first airplane that could fly ?", "label": "hum", "idx": 151}
+{"sentence": "How much in miles is a ten K run ?", "label": "num", "idx": 176}
+{"sentence": "What is the federal minimum wage ?", "label": "num", "idx": 177}
+{"sentence": "How do Ouija Boards work ?", "label": "desc", "idx": 213}
+{"sentence": "What Tom Wolfe book is about the Mercury astronauts ?", "label": "enty", "idx": 230}
+{"sentence": "How many people died on South Carolina highways in 1998 ?", "label": "num", "idx": 270}
+{"sentence": "What daughter of Henry VIII and Anne Boleyn became queen of England ?", "label": "hum", "idx": 324}
+{"sentence": "How many fiddlers did Old King Cole have ?", "label": "num", "idx": 438}
+{"sentence": "What four tournaments make up tennis ' Grand Slam ?", "label": "enty", "idx": 470}
+{"sentence": "Who is King in Alley Oop 's home of Moo ?", "label": "hum", "idx": 487}
+{"sentence": "Where is former Pro wrestler Johnny `` Rubber Man '' Walker ?", "label": "loc", "idx": 538}
+{"sentence": "What is the difference between fatalism and determinism ?", "label": "desc", "idx": 595}
+{"sentence": "When did the royal wedding of Prince Andrew and Fergie take place ?", "label": "num", "idx": 637}
+{"sentence": "Who is Count Cinzano ?", "label": "hum", "idx": 679}
+{"sentence": "What is the only vegetable that starts with `` z '' ?", "label": "enty", "idx": 698}
+{"sentence": "Where did King Francis I hang the `` Mona Lisa '' when he owned it ?", "label": "loc", "idx": 703}
+{"sentence": "What must be exceeded to produce a sonic boom ?", "label": "enty", "idx": 766}
+{"sentence": "What is the origin of the first name ` Breony ' ?", "label": "desc", "idx": 808}
+{"sentence": "What is the daily requirement of folic acid for an expectant mother ?", "label": "desc", "idx": 814}
+{"sentence": "How long is the world 's largest ship , in meters ?", "label": "num", "idx": 874}
+{"sentence": "What are the statistics for drunken drivers in Maryland ?", "label": "num", "idx": 895}
+{"sentence": "Which country is the largest country in Latin America ?", "label": "loc", "idx": 981}
+{"sentence": "How many inches over six feet is Tom Selleck ?", "label": "num", "idx": 1013}
+{"sentence": "What is the weakest bone in the body ?", "label": "enty", "idx": 1024}
+{"sentence": "When is Bastille Day ?", "label": "num", "idx": 1045}
+{"sentence": "Who did Arthur H. Bremer try to assassinate on May 15 , 1972 ?", "label": "hum", "idx": 1105}
+{"sentence": "What kind of fish is a coney ?", "label": "enty", "idx": 1137}
+{"sentence": "What bay divides Maryland 's Eastern and Western Shores ?", "label": "loc", "idx": 1176}
+{"sentence": "What body of water does the Yukon River empty into ?", "label": "loc", "idx": 1195}
+{"sentence": "What city is terrorized by Dracula in The Night Stalker ?", "label": "loc", "idx": 1227}
+{"sentence": "What drink contains as many types of rum as possible ?", "label": "enty", "idx": 1270}
+{"sentence": "What is `` flintknapping '' ?", "label": "desc", "idx": 1360}
+{"sentence": "What is capitalism according to Max Weber ?", "label": "desc", "idx": 1372}
+{"sentence": "What British TV series inspired All in the Family ?", "label": "enty", "idx": 1444}
+{"sentence": "Who was the first Taiwanese President ?", "label": "hum", "idx": 1456}
+{"sentence": "What is the acreage of the Chappellet vineyard ?", "label": "num", "idx": 1491}
+{"sentence": "Who leads the star ship Enterprise in Star Trek ?", "label": "hum", "idx": 1732}
+{"sentence": "What is the folklore story regarding birds ' nests and birds in Christmas trees ?", "label": "enty", "idx": 1768}
+{"sentence": "What is the most popular sports car color ?", "label": "enty", "idx": 1807}
+{"sentence": "What California bridge was Don Brown the first to cross , on May 27 , 1937 ?", "label": "loc", "idx": 1845}
+{"sentence": "How do you box train a cat ?", "label": "desc", "idx": 1887}
+{"sentence": "What country is famous for Persian rugs ?", "label": "loc", "idx": 1890}
+{"sentence": "How many people die of tuberculosis yearly ?", "label": "num", "idx": 1980}
+{"sentence": "What is the difference between a median and a mean ?", "label": "desc", "idx": 2038}
+{"sentence": "What is making love ?", "label": "desc", "idx": 2040}
+{"sentence": "What is the horsepower of the shuttle boosters ?", "label": "num", "idx": 2109}
+{"sentence": "Who wrote NN DT NNP NNP '' ?", "label": "hum", "idx": 2183}
+{"sentence": "How do you clean an LCD monitor screen ?", "label": "desc", "idx": 2260}
+{"sentence": "How can I find online spelling , and punctuation drills for my 6th grader ?", "label": "desc", "idx": 2267}
+{"sentence": "What penalty space lies between Baltic Avenue and Reading Railroad on a Monopoly board ?", "label": "enty", "idx": 2268}
+{"sentence": "What level of government or governmental agency is responsible for dealing with racism ?", "label": "hum", "idx": 2291}
+{"sentence": "What 's the colored part of the eye called ?", "label": "enty", "idx": 2308}
+{"sentence": "What is a hormone ?", "label": "desc", "idx": 2322}
+{"sentence": "How many votes in Congress dissented from the 1941 declaration of war with Japan ?", "label": "num", "idx": 2469}
+{"sentence": "How many characters are in the Chinese alphabet ?", "label": "num", "idx": 2603}
+{"sentence": "How do companies cut paper so thin ?", "label": "desc", "idx": 2612}
+{"sentence": "Why are ice cream sundaes called sundaes ?", "label": "desc", "idx": 2636}
+{"sentence": "Why did the world enter a global depression in 1929 ?", "label": "desc", "idx": 2721}
+{"sentence": "What is the largest snake in the world ?", "label": "enty", "idx": 2950}
+{"sentence": "Where is Glasgow ?", "label": "loc", "idx": 2975}
+{"sentence": "What President had never held an elected office until he was elected to the White House ?", "label": "hum", "idx": 3121}
+{"sentence": "What female painter produced primitives of rural New England life ?", "label": "hum", "idx": 3141}
+{"sentence": "Who wrote The Secret Life of Walter Mitty ?", "label": "hum", "idx": 3159}
+{"sentence": "What is the origin of head lice ?", "label": "desc", "idx": 3234}
+{"sentence": "How do you do a bibliography with an unknown author ?", "label": "desc", "idx": 3272}
+{"sentence": "What disease plagued Europe , Africa and Asia ?", "label": "enty", "idx": 3291}
+{"sentence": "What spy novelist served as Moscow correspondent for Reuter and The Times of London ?", "label": "hum", "idx": 3335}
+{"sentence": "How old is the sun ?", "label": "num", "idx": 3363}
+{"sentence": "Why is black the color of mourning in the West ?", "label": "desc", "idx": 3385}
+{"sentence": "What are the environmental influences on plant genetics ?", "label": "desc", "idx": 3427}
+{"sentence": "What is Dudley Do-Right 's horse 's name ?", "label": "enty", "idx": 3487}
+{"sentence": "What non-alcoholic syrup is made from pomegranate juice ?", "label": "enty", "idx": 3543}
+{"sentence": "What year did Jack Nicklaus join the Professional Golfers Association tour ?", "label": "num", "idx": 3562}
+{"sentence": "What actor came to dinner in Guess Who 's Coming to Dinner ?", "label": "hum", "idx": 3583}
+{"sentence": "What do I have to do to get good grades in school ?", "label": "desc", "idx": 3599}
+{"sentence": "The trials resulting from World War II are known as what ?", "label": "enty", "idx": 3686}
+{"sentence": "What war did the Potsdam Conference follow ?", "label": "enty", "idx": 3755}
+{"sentence": "What was Mae West 's last film ?", "label": "enty", "idx": 3765}
+{"sentence": "Who was Jean Nicolet ?", "label": "hum", "idx": 3799}
+{"sentence": "What was the name of the lawyer who represented Randy Craft ?", "label": "hum", "idx": 3892}
+{"sentence": "What scale measures earthquakes ?", "label": "enty", "idx": 4040}
+{"sentence": "What war did the Wanna-Go-Home Riots occur after ?", "label": "enty", "idx": 4333}
+{"sentence": "Who commanded the French forces at the Battle of Orleans ?", "label": "hum", "idx": 4360}
+{"sentence": "When is Boxing Day ?", "label": "num", "idx": 4421}
+{"sentence": "What two European countries entered the War of American Independence against the British ?", "label": "loc", "idx": 4441}
+{"sentence": "When did Lucelly Garcia , a former ambassador of Columbia to Honduras , die ?", "label": "num", "idx": 4530}
+{"sentence": "What is the best art and design school in the world ?", "label": "hum", "idx": 4548}
+{"sentence": "What is an Angelus ?", "label": "desc", "idx": 4722}
+{"sentence": "Who painted the Sistine Chapel ?", "label": "hum", "idx": 4733}
+{"sentence": "What did Jimmy Stewart invent ?", "label": "enty", "idx": 4734}
+{"sentence": "What Ernest Hemingway novel had the working title Fiesta ?", "label": "enty", "idx": 4782}
+{"sentence": "What is the Home Rule Act ?", "label": "desc", "idx": 4814}
+{"sentence": "What term does a Czech use to describe a Pole ?", "label": "enty", "idx": 4925}

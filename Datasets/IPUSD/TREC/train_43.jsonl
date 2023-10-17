@@ -1,0 +1,96 @@
+{"sentence": "What dog was dubbed The Mortgage Lifter ?", "label": "enty", "idx": 35}
+{"sentence": "What causes asthma ?", "label": "desc", "idx": 166}
+{"sentence": "What is the origin of the word Marijuana ?", "label": "desc", "idx": 211}
+{"sentence": "What are a baseball team 's firemen ?", "label": "desc", "idx": 307}
+{"sentence": "What is the origin of the word `` amen '' ?", "label": "desc", "idx": 323}
+{"sentence": "What is false consciousness ?", "label": "desc", "idx": 351}
+{"sentence": "How many tiles did the Space Shuttle Columbia lose on its second flight ?", "label": "num", "idx": 392}
+{"sentence": "Where is former Pro wrestler Johnny `` Rubber Man '' Walker ?", "label": "loc", "idx": 538}
+{"sentence": "What line divided the North and South in the U.S. Civil War ?", "label": "enty", "idx": 554}
+{"sentence": "What letter is to the right of K on a typewriter keyboard ?", "label": "enty", "idx": 611}
+{"sentence": "What does appropriates money mean ?", "label": "desc", "idx": 623}
+{"sentence": "Who took over as conductor of the Boston Pops after Arthur Fiedler 's long reign ?", "label": "hum", "idx": 627}
+{"sentence": "How far can a human eye see ?", "label": "num", "idx": 710}
+{"sentence": "What people make up half the Soviet Union 's population ?", "label": "hum", "idx": 730}
+{"sentence": "What was the tallest building in America in 1922 ?", "label": "loc", "idx": 764}
+{"sentence": "Who is the Pope ?", "label": "hum", "idx": 791}
+{"sentence": "What did Tristan come back as ?", "label": "enty", "idx": 865}
+{"sentence": "What events happened January 26 , 1978 ?", "label": "enty", "idx": 1007}
+{"sentence": "What chapter of the Bible has the most verses ?", "label": "num", "idx": 1015}
+{"sentence": "How can I call a friend in another country when I do not know the telephone number ?", "label": "desc", "idx": 1032}
+{"sentence": "What is Dr. Seuss ' most popular book ?", "label": "enty", "idx": 1058}
+{"sentence": "Where is the Rose Bowl played ?", "label": "loc", "idx": 1071}
+{"sentence": "How many people did Randy Craft murder ?", "label": "num", "idx": 1159}
+{"sentence": "What anesthetic did Queen Victoria allow to be used for the birth of her seventh child , in 1853 ?", "label": "enty", "idx": 1169}
+{"sentence": "How many events make up the decathlon ?", "label": "num", "idx": 1325}
+{"sentence": "Who portrayed Dracula in Hammer Studios ' films ?", "label": "hum", "idx": 1348}
+{"sentence": "How do you reference a website ?", "label": "desc", "idx": 1366}
+{"sentence": "What novel has Big Brother watching ?", "label": "enty", "idx": 1369}
+{"sentence": "How many revolutions does a standard LP make in three minutes ?", "label": "num", "idx": 1468}
+{"sentence": "How can I transport files from one computer to another ?", "label": "desc", "idx": 1476}
+{"sentence": "What famous actress made her first appearance on stage at the age of five in the year 191 as `` Baby '' ?", "label": "hum", "idx": 1571}
+{"sentence": "What strait links the Mediterranean Sea and the Atlantic Ocean ?", "label": "loc", "idx": 1647}
+{"sentence": "How does blood clot ?", "label": "desc", "idx": 1673}
+{"sentence": "What is Zionism ?", "label": "desc", "idx": 1724}
+{"sentence": "Where did Freidreich Wilhelm Ludwig Leichhardt , Prussian born explorer , go to school ?", "label": "loc", "idx": 1745}
+{"sentence": "What was the only country you were allowed to drive into Israel from in 1979 ?", "label": "loc", "idx": 1805}
+{"sentence": "What was the eighth day following the Nones in each month of the Roman calendar called ?", "label": "enty", "idx": 1957}
+{"sentence": "How long does a pig 's orgasm last ?", "label": "num", "idx": 1962}
+{"sentence": "What is the meaning of `` CPR '' ?", "label": "desc", "idx": 1991}
+{"sentence": "What President lived at 219 North Delaware Street , Independence , Missouri ?", "label": "hum", "idx": 1992}
+{"sentence": "Where is Amsterdam ?", "label": "loc", "idx": 2031}
+{"sentence": "What American won the world Grand Prix driving championship in 1978 ?", "label": "hum", "idx": 2060}
+{"sentence": "What mayor made so many TV appearances he was asked to join AFTRA in 1984 ?", "label": "hum", "idx": 2124}
+{"sentence": "What is the quickest and easiest way to get nail polish out of clothes ?", "label": "enty", "idx": 2288}
+{"sentence": "Where does dew come from ?", "label": "loc", "idx": 2334}
+{"sentence": "What are the four natural aids used in riding a horse ?", "label": "enty", "idx": 2419}
+{"sentence": "What disease did August von Wassermann develop a specific test for in 196 ?", "label": "enty", "idx": 2429}
+{"sentence": "In what part of Africa is Mozambique located ?", "label": "loc", "idx": 2485}
+{"sentence": "When did the Berlin Wall go up ?", "label": "num", "idx": 2492}
+{"sentence": "Who is the richest person in the world ?", "label": "hum", "idx": 2532}
+{"sentence": "What is a fear of water ?", "label": "enty", "idx": 2557}
+{"sentence": "What country are you in if you woo in the Wu dialect ?", "label": "loc", "idx": 2586}
+{"sentence": "What kind of patent did Ermal Fraze get in 1963 ?", "label": "enty", "idx": 2592}
+{"sentence": "How long would it take for a $ savings bond to mature ?", "label": "num", "idx": 2606}
+{"sentence": "What is the highest Roman numeral ?", "label": "desc", "idx": 2645}
+{"sentence": "What is Li 'l Abner 's last name ?", "label": "hum", "idx": 2739}
+{"sentence": "What city 's the kickoff point for climbs of Mount Everest ?", "label": "loc", "idx": 2762}
+{"sentence": "What 's the better-known identity of John Merrick , the noble ogre of Victorian England ?", "label": "hum", "idx": 2855}
+{"sentence": "What does IBM stand for ?", "label": "abbr", "idx": 2928}
+{"sentence": "Who was the first actress to appear on a postage stamp ?", "label": "hum", "idx": 2971}
+{"sentence": "In what religion was Isis the nature goddess ?", "label": "enty", "idx": 3110}
+{"sentence": "How many bones are there in the human hand ?", "label": "num", "idx": 3208}
+{"sentence": "What organization 's offices were broken into at Watergate in 1972 ?", "label": "hum", "idx": 3269}
+{"sentence": "How do I change a file from an ART file to a JPEG or Bitmap file ?", "label": "desc", "idx": 3299}
+{"sentence": "What football bowl game 's first queen was Hallie Woods ?", "label": "enty", "idx": 3435}
+{"sentence": "Who played the original Charlie 's Angels ?", "label": "hum", "idx": 3440}
+{"sentence": "What cocktail do you concoct with whisky and sweet vermouth ?", "label": "enty", "idx": 3449}
+{"sentence": "What countries have the largest areas of forest ?", "label": "loc", "idx": 3453}
+{"sentence": "Who is the president of Stanford University ?", "label": "hum", "idx": 3506}
+{"sentence": "What plants are found in an estuary ?", "label": "enty", "idx": 3689}
+{"sentence": "What is the most populated city in the world ?", "label": "loc", "idx": 3709}
+{"sentence": "What Colorado city owns its own glacier ?", "label": "loc", "idx": 3809}
+{"sentence": "What city boasts Penn 's Landing , on the banks of the Delaware river ?", "label": "loc", "idx": 3823}
+{"sentence": "How many websites are there in the world ?", "label": "num", "idx": 3853}
+{"sentence": "Who is the prime minister of Japan ?", "label": "hum", "idx": 3877}
+{"sentence": "What 's a water funnel ?", "label": "desc", "idx": 3943}
+{"sentence": "How does the Nintendo `` Zapper '' work ?", "label": "desc", "idx": 4051}
+{"sentence": "In which year was New Zealand excluded from the ANZUS alliance ?", "label": "num", "idx": 4056}
+{"sentence": "How many people live in Chile ?", "label": "num", "idx": 4121}
+{"sentence": "What company named one of its pens `` The Banana '' ?", "label": "hum", "idx": 4158}
+{"sentence": "Who is the prophet of the religion of Islam ?", "label": "hum", "idx": 4176}
+{"sentence": "How many chemical elements are there ?", "label": "num", "idx": 4184}
+{"sentence": "What type of betting is used in horse racing ?", "label": "enty", "idx": 4242}
+{"sentence": "What is the world record for the longest hair ?", "label": "num", "idx": 4290}
+{"sentence": "Name the first Russian astronaut to do a spacewalk .", "label": "hum", "idx": 4304}
+{"sentence": "What makes a clitoris sensitive ?", "label": "desc", "idx": 4405}
+{"sentence": "Who played the title role in I Was a Teenage Werewolf ?", "label": "hum", "idx": 4417}
+{"sentence": "What was the price of Varian Associates ' vacuum products division ?", "label": "num", "idx": 4598}
+{"sentence": "How was the ACLU formed ?", "label": "desc", "idx": 4706}
+{"sentence": "Why do airliners crash vs. gliding down ?", "label": "desc", "idx": 4711}
+{"sentence": "What soft drink is most heavily caffeinated ?", "label": "enty", "idx": 4730}
+{"sentence": "McCarren Airport is located in what city ?", "label": "loc", "idx": 4772}
+{"sentence": "What organization was founded by the Rev. Jerry Falwell ?", "label": "hum", "idx": 4876}
+{"sentence": "What country in 1998 had the most suicides regardless of population size ?", "label": "loc", "idx": 4898}
+{"sentence": "What 's the geographic term for the submerged fringe of a continent ?", "label": "enty", "idx": 4905}
+{"sentence": "What was the importance of Magellan ?", "label": "desc", "idx": 4930}

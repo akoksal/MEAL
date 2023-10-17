@@ -1,0 +1,96 @@
+{"sentence": "Who was the architect of Central Park ?", "label": "hum", "idx": 24}
+{"sentence": "How many copies of an album must be sold for it to be a gold album ?", "label": "num", "idx": 82}
+{"sentence": "What baseball expression came from the nautical term for ships sailing between the Atlantic and Pacific before the Panama Canal ?", "label": "desc", "idx": 90}
+{"sentence": "What is `` the computer for the rest of us '' ?", "label": "desc", "idx": 138}
+{"sentence": "How many inches over six feet is the Venus de Milo ?", "label": "num", "idx": 173}
+{"sentence": "How much in miles is a ten K run ?", "label": "num", "idx": 176}
+{"sentence": "What was Simple Simon fishing for in his mother 's pail ?", "label": "enty", "idx": 185}
+{"sentence": "How many teats does a female goat sport ?", "label": "num", "idx": 226}
+{"sentence": "What are some translations of the phrase `` Thank-you '' ?", "label": "enty", "idx": 237}
+{"sentence": "What does Lloyd 's Lutine Bell announce ?", "label": "desc", "idx": 263}
+{"sentence": "What major Victorian novelist spent as much time working for the post office as he did writing ?", "label": "hum", "idx": 292}
+{"sentence": "What state does Charles Robb represent ?", "label": "loc", "idx": 407}
+{"sentence": "What generation am I in ?", "label": "enty", "idx": 468}
+{"sentence": "What is the wingspan of a condor ?", "label": "num", "idx": 490}
+{"sentence": "What 's the name of Pittsburgh 's baseball team ?", "label": "hum", "idx": 506}
+{"sentence": "How many people in Tucson ?", "label": "num", "idx": 545}
+{"sentence": "How many gallons of water go over Niagra Falls every second ?", "label": "num", "idx": 592}
+{"sentence": "How far is London UK from California ?", "label": "num", "idx": 614}
+{"sentence": "Why do eyes sometimes look red in photographs ?", "label": "desc", "idx": 670}
+{"sentence": "What is Jell-O made from ?", "label": "enty", "idx": 707}
+{"sentence": "What is the origin of U.S. Army sergeant 's stripes ?", "label": "desc", "idx": 735}
+{"sentence": "What President-to-be was the first member of Congress to enlist following the attack on Pearl Harbor ?", "label": "hum", "idx": 768}
+{"sentence": "In what year did they build the Berlin Wall ?", "label": "num", "idx": 841}
+{"sentence": "What President became Chief Justice after his presidency ?", "label": "hum", "idx": 940}
+{"sentence": "Who created Harry Lime ?", "label": "hum", "idx": 964}
+{"sentence": "What are the various ways in which one can measure IT User Satisfaction Level ?", "label": "enty", "idx": 1106}
+{"sentence": "What anesthetic did Queen Victoria allow to be used for the birth of her seventh child , in 1853 ?", "label": "enty", "idx": 1169}
+{"sentence": "Where can I find a person 's address from a telephone number ?", "label": "loc", "idx": 1175}
+{"sentence": "What does the name Shawn mean ?", "label": "desc", "idx": 1217}
+{"sentence": "What is Nitrox diving ?", "label": "desc", "idx": 1262}
+{"sentence": "What are the words to the cd Eminem 's , or slim shady , `` My Name Is '' ?", "label": "desc", "idx": 1277}
+{"sentence": "What does the `` blue ribbon '' stand for ?", "label": "abbr", "idx": 1377}
+{"sentence": "In what city is the famed St. Mark 's Square ?", "label": "loc", "idx": 1410}
+{"sentence": "What 's the term for an organism that lives on or in another ?", "label": "enty", "idx": 1498}
+{"sentence": "What can I use to remove the stubborn gummed labels from some diskettes ?", "label": "enty", "idx": 1642}
+{"sentence": "What double talking `` professor '' holds a doctorate in Nothing ?", "label": "hum", "idx": 1717}
+{"sentence": "Where can I buy movies on videotape online ?", "label": "loc", "idx": 1719}
+{"sentence": "What Peter Blatty novel recounts the horrors of Regan MacNeil 's possession by the devil ?", "label": "enty", "idx": 1728}
+{"sentence": "Where is Sinn Fein 's headquarters ?", "label": "loc", "idx": 1843}
+{"sentence": "How much did a knight 's armor weigh ?", "label": "num", "idx": 1985}
+{"sentence": "What is the most common cancer ?", "label": "enty", "idx": 2045}
+{"sentence": "Why do rooftops give off steam after a big rainstorm ?", "label": "desc", "idx": 2063}
+{"sentence": "What is the exchange rate between England and the U.S. ?", "label": "num", "idx": 2083}
+{"sentence": "How many meters are in a mile ?", "label": "num", "idx": 2110}
+{"sentence": "What is the abbreviation for Original Equipment Manufacturer ?", "label": "abbr", "idx": 2217}
+{"sentence": "How many colors are there in a rainbow ?", "label": "num", "idx": 2224}
+{"sentence": "What is the capital of Burkina Faso ?", "label": "loc", "idx": 2227}
+{"sentence": "What was the minimum wage in 1991 ?", "label": "num", "idx": 2280}
+{"sentence": "How many cards are dealt to each player in Gin Rummy ?", "label": "num", "idx": 2289}
+{"sentence": "Where did the term fireplug come from ?", "label": "desc", "idx": 2325}
+{"sentence": "What class is categorized as the bourgeoisie ?", "label": "enty", "idx": 2363}
+{"sentence": "Which team won the Super Bowl in 1968 ?", "label": "hum", "idx": 2406}
+{"sentence": "What was the rallying cry of the early American revolutionaries ?", "label": "desc", "idx": 2464}
+{"sentence": "When did President Kennedy , Lee Harvey Oswald , and Jack Ruby all die ?", "label": "num", "idx": 2483}
+{"sentence": "What sound does Olympia , Washington , overlook ?", "label": "loc", "idx": 2548}
+{"sentence": "What do Caroll Baker , Tammy Grimes , Debbie Reynolds , and Judy Garland all have in common ?", "label": "desc", "idx": 2596}
+{"sentence": "What non-mechanical sport achieves the highest speeds ?", "label": "enty", "idx": 2607}
+{"sentence": "What is the largest city on the Great Lakes ?", "label": "loc", "idx": 2621}
+{"sentence": "What is Smartnet ?", "label": "desc", "idx": 2626}
+{"sentence": "How many of them are in sub-Saharan Africa ?", "label": "num", "idx": 2691}
+{"sentence": "What TV game show once saw a contestant admit to picking his toes in the shower ?", "label": "enty", "idx": 2698}
+{"sentence": "What is the celtic symbol for `` life '' ?", "label": "enty", "idx": 2774}
+{"sentence": "What were hairy bank notes in the fur trade ?", "label": "enty", "idx": 2878}
+{"sentence": "How do you use an intranet ?", "label": "desc", "idx": 2920}
+{"sentence": "What was the 24-disc John Gabel Entertainer the first example of , in 1960 ?", "label": "enty", "idx": 2967}
+{"sentence": "What year did the United States pass the Copyright law ?", "label": "num", "idx": 3061}
+{"sentence": "Who patented the first phonograph ?", "label": "hum", "idx": 3113}
+{"sentence": "Which classical Spanish writer said `` All that glitters is not gold '' ?", "label": "hum", "idx": 3149}
+{"sentence": "What National League baseball team employed 72 third baseemen in its first 2 seasons ?", "label": "hum", "idx": 3155}
+{"sentence": "Which hair care product told us `` hate that gray , wash it away '' ?", "label": "enty", "idx": 3168}
+{"sentence": "What is Nicholas Cage 's occupation ?", "label": "hum", "idx": 3286}
+{"sentence": "How many shots can a stock M16 hold ?", "label": "num", "idx": 3343}
+{"sentence": "Why do people shake hands to show friendliness ?", "label": "desc", "idx": 3370}
+{"sentence": "What U.S. senator once played basketball for the New York Knicks ?", "label": "hum", "idx": 3395}
+{"sentence": "Which sex is denied voting rights in Kuwait ?", "label": "enty", "idx": 3421}
+{"sentence": "What does Robin Williams do ?", "label": "hum", "idx": 3473}
+{"sentence": "Why do men snore ?", "label": "desc", "idx": 3509}
+{"sentence": "What was the favorite sport of Tom Wolfe 's The Pump House Gang ?", "label": "enty", "idx": 3597}
+{"sentence": "What layer of the atmosphere contains most of the ozone layer ?", "label": "enty", "idx": 3726}
+{"sentence": "How many people does Honda employ in the U.S. ?", "label": "num", "idx": 3731}
+{"sentence": "What is the highest waterfall in the United States ?", "label": "loc", "idx": 3967}
+{"sentence": "What city is Logan Airport in ?", "label": "loc", "idx": 3997}
+{"sentence": "How much did Mercury spend on advertising in 1993 ?", "label": "num", "idx": 4036}
+{"sentence": "What format was VHS 's main competition ?", "label": "enty", "idx": 4045}
+{"sentence": "How many Gutenberg Bibles are there ?", "label": "num", "idx": 4095}
+{"sentence": "How many calories are there in a glass of water ?", "label": "num", "idx": 4220}
+{"sentence": "What is the nickname of the famous flyer who mistakenly flew to Ireland instead of to Los Angeles ?", "label": "hum", "idx": 4248}
+{"sentence": "How do I find out what cities are in a certain area code ?", "label": "desc", "idx": 4264}
+{"sentence": "What Jewish holiday saw the start of the 1973 Mideast War ?", "label": "enty", "idx": 4347}
+{"sentence": "What is the world 's largest distilling company ?", "label": "hum", "idx": 4398}
+{"sentence": "What kind of company is 7-Eleven ?", "label": "hum", "idx": 4450}
+{"sentence": "What type of animal is the easiest kept pet there is ?", "label": "enty", "idx": 4541}
+{"sentence": "What is the definition of the Scrabble word ` syzygy ' ?", "label": "desc", "idx": 4588}
+{"sentence": "What is the meaning of Jesus ?", "label": "desc", "idx": 4717}
+{"sentence": "Which infectious disease is the world 's deadliest ?", "label": "enty", "idx": 4787}
+{"sentence": "How do you determine if a computer monitor has an SVGA adapter ?", "label": "desc", "idx": 4859}
