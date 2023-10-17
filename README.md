@@ -5,7 +5,7 @@ The code and data for our EMNLP 2023 Findings paper: MEAL ([paper](https://arxiv
 ![instability](Figures/instability.png)  
 
 Our key-findings are:
-1. Prompt-based fine-tuning faces major instability issues related to *run variability* and *training data selection*. See the figure above, the accuracy may vary **from 52 to 78**.
+1. Prompt-based fine-tuning faces major instability issues related to *run variability* and *training data selection*. See the figure above, the accuracy may vary **from 52\% to 78\%**.
 2. Multiprompt finetuning and ensembling techniques improve the run variability significantly (see Table 1 in the [paper](https://arxiv.org/abs/2211.08358)).
 3. We evaluate various active-learning / data selection strategies to attack variability of training data selection. We propose a novel strategy, IPUSD, relying on variance across different prompts. IPUSD outperforms other active learning strategies both in terms of accuracy and variance (see the table below).
 
