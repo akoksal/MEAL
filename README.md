@@ -33,12 +33,21 @@ Check out the data splits for different active learning strategies (including un
 
 ## Citation
 ```
-@misc{koksal2023meal,
-      title={MEAL: Stable and Active Learning for Few-Shot Prompting}, 
-      author={Abdullatif Köksal and Timo Schick and Hinrich Schütze},
-      year={2023},
-      eprint={2211.08358},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{koksal-etal-2023-meal,
+    title = "{MEAL}: Stable and Active Learning for Few-Shot Prompting",
+    author = {K{\"o}ksal, Abdullatif  and
+      Schick, Timo  and
+      Schuetze, Hinrich},
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.36",
+    doi = "10.18653/v1/2023.findings-emnlp.36",
+    pages = "506--517"
 }
 ```
